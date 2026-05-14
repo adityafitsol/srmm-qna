@@ -19,7 +19,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import threading
 
 import vertexai
-from vertexai.generative_models import GenerativeModel, Part, GenerationConfig
+from vertexai.generative_models import GenerativeModel, Part, GenerationConfig, Tool, grounding
 from google.oauth2 import service_account
 import openpyxl
 from openpyxl.styles import PatternFill, Font, Alignment, Border, Side
@@ -610,7 +610,8 @@ Return ONLY valid JSON in EXACTLY this structure (no markdown, no extra text):
 # ═══════════════════════════════════════════════════════════════════════════════
 def download_pdf(url: str) -> bytes | None:
     try:
-        r = requests.get(url, timeout=PDF_DOWNLOAD_TIMEOUT, stream=True)
+        headers = {"User-Agent": "Mozilla/5.0 (compatible; BRSR-scraper/1.0)"}
+        r = requests.get(url, timeout=PDF_DOWNLOAD_TIMEOUT, stream=True, headers=headers)
         r.raise_for_status()
         data = b"".join(r.iter_content(chunk_size=65536))
         if len(data) < 1000:
@@ -620,6 +621,50 @@ def download_pdf(url: str) -> bytes | None:
     except Exception as e:
         log.warning(f"PDF download failed: {url}  →  {e}")
         return None
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# GEMINI GOOGLE SEARCH FALLBACK
+# ═══════════════════════════════════════════════════════════════════════════════
+def search_brsr_pdf(company_name: str) -> tuple[str | None, bytes | None]:
+    """Use Gemini with Google Search grounding to find the company's BRSR 2022-23 PDF."""
+    model = get_model()
+    search_tool = Tool.from_google_search_retrieval(grounding.GoogleSearchRetrieval())
+    prompt = (
+        f"Find the direct PDF download URL for the BRSR (Business Responsibility and "
+        f"Sustainability Report) for FY 2022-23 filed by '{company_name}' on NSE or BSE "
+        f"or the company's investor relations website. "
+        f"Return ONLY the PDF URL, nothing else."
+    )
+    try:
+        resp = model.generate_content(
+            prompt,
+            tools=[search_tool],
+            generation_config=GenerationConfig(temperature=0),
+        )
+        # Collect candidate URLs from grounding metadata + response text
+        candidate_urls = []
+        try:
+            meta = resp.candidates[0].grounding_metadata
+            if meta and meta.grounding_chunks:
+                for chunk in meta.grounding_chunks:
+                    if chunk.web and chunk.web.uri:
+                        candidate_urls.append(chunk.web.uri)
+        except Exception:
+            pass
+        # Also try to extract any URL from the text response
+        text = resp.text.strip() if resp.text else ""
+        urls_in_text = re.findall(r"https?://\S+\.pdf\b", text, re.IGNORECASE)
+        candidate_urls = urls_in_text + candidate_urls  # prefer text URLs (direct PDF)
+
+        for url in candidate_urls:
+            url = url.rstrip(".,)")
+            log.info(f"  Gemini search hit: {url}")
+            data = download_pdf(url)
+            if data:
+                return url, data
+    except Exception as e:
+        log.warning(f"  Gemini search error for {company_name}: {e}")
+    return None, None
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # GEMINI ANALYSIS
@@ -760,14 +805,24 @@ def process_company(company: dict) -> dict:
 
     base = {"sno": sno, "company": name, "brsr_link": url, "analyzed_at": ts}
 
-    if not url:
-        log.info(f"[{sno:4d}] {name}  →  no link, skipping")
-        return {**base, "status": "no_link", "answers": {}, "scores": None}
+    # Step 1: try existing NSE link
+    pdf = None
+    if url:
+        log.info(f"[{sno:4d}] {name}  →  downloading PDF from NSE link …")
+        pdf = download_pdf(url)
 
-    log.info(f"[{sno:4d}] {name}  →  downloading PDF …")
-    pdf = download_pdf(url)
+    # Step 2: fallback to Google/DDG search if link missing or broken
     if pdf is None:
-        return {**base, "status": "pdf_download_failed", "answers": {}, "scores": None}
+        log.info(f"[{sno:4d}] {name}  →  NSE link failed, searching for BRSR 2022-23 PDF …")
+        found_url, pdf = search_brsr_pdf(name)
+        if found_url:
+            url = found_url
+            base["brsr_link"] = found_url
+            log.info(f"[{sno:4d}] {name}  →  found via search: {found_url}")
+
+    if pdf is None:
+        log.warning(f"[{sno:4d}] {name}  →  could not find PDF anywhere, skipping")
+        return {**base, "status": "pdf_not_found", "answers": {}, "scores": None}
 
     log.info(f"[{sno:4d}] {name}  →  analysing with Gemini ({len(pdf)//1024} KB) …")
     indicators = analyze_with_gemini(pdf, name)
