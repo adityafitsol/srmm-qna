@@ -1,0 +1,5107 @@
+[
+  {
+    "sno": 1,
+    "company": "Coforge Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/COFORGE_27102023151723_BRSR_Intimation.pdf"
+  },
+  {
+    "sno": 2,
+    "company": "Hindustan Construction Company Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/HCC_18102023170153_BRSR.pdf"
+  },
+  {
+    "sno": 3,
+    "company": "AVADH SUGAR & ENERGY LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/AVADHSUGAR_16102023143103_ASEL_BRSR2223.pdf"
+  },
+  {
+    "sno": 4,
+    "company": "THE ANDHRA SUGARS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ANDHRSUGAR_13102023152659_ASLBRSRREPORT0222023.pdf"
+  },
+  {
+    "sno": 5,
+    "company": "Sequent Scientific Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SEQUENT_12102023180128_BRSRreport.pdf"
+  },
+  {
+    "sno": 6,
+    "company": "Future Consumer Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/FCEL1_12102023125252_BRSR2023.pdf"
+  },
+  {
+    "sno": 7,
+    "company": "AMRUTANJAN HEALTH CARE LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/AMRUTANJAN_10102023182455_brsrupload.pdf"
+  },
+  {
+    "sno": 8,
+    "company": "ABANS HOLDINGS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/abansholdings_10102023122032_SubmissionofBRSRsd.pdf"
+  },
+  {
+    "sno": 9,
+    "company": "Honeywell Automation India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/HONAUT_07102023000307_HAILBRSRFY202223.pdf"
+  },
+  {
+    "sno": 10,
+    "company": "Indraprastha Gas Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/IGL1_06102023161001_BRSR2023.pdf"
+  },
+  {
+    "sno": 11,
+    "company": "Cyient lImited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/CYIENT_06102023123145_BRSRLetterandBRSRSigned.pdf"
+  },
+  {
+    "sno": 12,
+    "company": "NIIT Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/RARORA_06102023123233_NIITBRSRFY23.pdf"
+  },
+  {
+    "sno": 13,
+    "company": "ADANI GREEN ENERGY LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ADANIGREEN_06102023122951_BRSR.pdf"
+  },
+  {
+    "sno": 14,
+    "company": "Container Corporation of India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/CONCOR_05102023191010_CONCOR_BRSR_2023.pdf"
+  },
+  {
+    "sno": 15,
+    "company": "Mazagon Dock Shipbuilders Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MAZDOCK_05102023171923_BRSRXBRL.pdf"
+  },
+  {
+    "sno": 16,
+    "company": "Swan Energy Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SWANENERGY_04102023154159_SELBRSR2023.pdf"
+  },
+  {
+    "sno": 17,
+    "company": "RHI Magnesita India Ltd",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/RHIM_04102023150006_IntimationofBRSR.pdf"
+  },
+  {
+    "sno": 18,
+    "company": "NRB BEARING LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/NRBBEARING1_04102023124244_BRSRReportSEUpload.pdf"
+  },
+  {
+    "sno": 19,
+    "company": "Praj Industries Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PRAJIND_04102023113635_BRSRReport202223.pdf"
+  },
+  {
+    "sno": 20,
+    "company": "JAIN IRRIGATION SYSTEMS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/JISLDVREQS_03102023175556_BRSR202223.pdf"
+  },
+  {
+    "sno": 21,
+    "company": "Tata Communications Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/TATACOMM2_29092023191958_17532.pdf"
+  },
+  {
+    "sno": 22,
+    "company": "Everest Kanto Cylinder Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/EKC_29092023175341_EKCBRSR2023.pdf"
+  },
+  {
+    "sno": 23,
+    "company": "Housing & Urban Development Corporation Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/HUDCO_29092023145609_Report.pdf"
+  },
+  {
+    "sno": 24,
+    "company": "TAJ GVK Hotels & Resorts Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/TAJGVK_29092023144805_BRSRIntimation.pdf"
+  },
+  {
+    "sno": 25,
+    "company": "THEMIS MEDICARE LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/THEMISMED_29092023101003_BRSRNSE.pdf"
+  },
+  {
+    "sno": 26,
+    "company": "Linde India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/LINDEINDIA1_27092023174135_Linde_India_BRSR_2022_23.pdf"
+  },
+  {
+    "sno": 27,
+    "company": "Control Print Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/CONTROLPR_27092023170239_BRSRIntimationsigned.pdf"
+  },
+  {
+    "sno": 28,
+    "company": "SANGHVI MOVERS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SANGHVIMOV_27092023154147_BRSR202223.pdf"
+  },
+  {
+    "sno": 29,
+    "company": "PTC Industries Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PTCINDUSTRIES_27092023144817_BRSR_FY_2022_23.pdf"
+  },
+  {
+    "sno": 30,
+    "company": "Tata Elxsi Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/imrans_26092023210921_BRSR.pdf"
+  },
+  {
+    "sno": 31,
+    "company": "CHENNAI PETROLEUM CORPORATION LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/CHENNPETRO_26092023190431_BRSR.pdf"
+  },
+  {
+    "sno": 32,
+    "company": "Kewal Kiran Clothing Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/KKCL_26092023160413_BRSR2023.pdf"
+  },
+  {
+    "sno": 33,
+    "company": "National Aluminium Company Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/bharatsahu_26092023143558_BRSR202223.pdf"
+  },
+  {
+    "sno": 34,
+    "company": "Sindhu Trade Links Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SINDHUTRAD_25092023150933_BRSRReportingsigned.pdf"
+  },
+  {
+    "sno": 35,
+    "company": "Accelya Solutions India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ACCELYA_23092023163253_AnnualReportSubmission2023.pdf"
+  },
+  {
+    "sno": 36,
+    "company": "Mahanagar Gas Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/KAMLESHMGL_23092023133937_MGL_BRSR_2023.pdf"
+  },
+  {
+    "sno": 37,
+    "company": "TITAGARH RAIL SYSTEMS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/TWL_22092023201702_BRSR_AR_PDF.pdf"
+  },
+  {
+    "sno": 38,
+    "company": "Subros Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SUBROS_22092023193103_SLBRSR2023.pdf"
+  },
+  {
+    "sno": 39,
+    "company": "Easy Trip Planners Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/EASEMYTRIP_22092023190017_BRSR.pdf"
+  },
+  {
+    "sno": 40,
+    "company": "DYNAMATIC TECHNOLOGIES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/DYNAMATICH_22092023183932_BRSR_FY202223.pdf"
+  },
+  {
+    "sno": 41,
+    "company": "JK Cement Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/JKCEMENT_22092023163726_BRSR2023JKCL.pdf"
+  },
+  {
+    "sno": 42,
+    "company": "THE NEW INDIA ASSURANCE COMPANY LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/NIACL_22092023152556_BRSR.pdf"
+  },
+  {
+    "sno": 43,
+    "company": "JB Chemicals & Pharmaceuticals Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/JBCHEPHARM_22092023144202_BRSR_2023_NSE.pdf"
+  },
+  {
+    "sno": 44,
+    "company": "EID Parry India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/EIDPARRY2_22092023141522_SEBRSRSD.pdf"
+  },
+  {
+    "sno": 45,
+    "company": "GE T&D India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GETDIL1_22092023130320_BRSR.pdf"
+  },
+  {
+    "sno": 46,
+    "company": "MRF Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MRF_22092023121142_BRSR.pdf"
+  },
+  {
+    "sno": 47,
+    "company": "Sharda Motor Industries Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SHARDACHIRAG_21092023221300_BRSR2023.pdf"
+  },
+  {
+    "sno": 48,
+    "company": "Axita Cotton Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/AXITA_21092023155928_DisclosureBRSRReport.pdf"
+  },
+  {
+    "sno": 49,
+    "company": "Mrs. Bectors Food Specialities Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/BECTORFOOD_21092023122840_MBFCL_BRSR.pdf"
+  },
+  {
+    "sno": 50,
+    "company": "Kabra Extrusion technik Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/KABRAEXTRU_18092023162534_BRSR.pdf"
+  },
+  {
+    "sno": 51,
+    "company": "Central Depository Services (India) Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/CDSL_18092023133045_SENoticeBRSR.pdf"
+  },
+  {
+    "sno": 52,
+    "company": "Kopran Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/KOPRAN_18092023105430_BRSR2023R.pdf"
+  },
+  {
+    "sno": 53,
+    "company": "KPI GREEN ENERGY LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/KPIGLOBAL_16092023192727_KPI_BRSR_2022_23.pdf"
+  },
+  {
+    "sno": 54,
+    "company": "APEX FROZEN FOODS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/APEX_16092023144508_BRSRintimation.pdf"
+  },
+  {
+    "sno": 55,
+    "company": "Kitex Garments Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/KITEX_16092023103656_Business_Responsibility_and_Sustainability_Report_signed.pdf"
+  },
+  {
+    "sno": 56,
+    "company": "Zee Media Corporation Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/RSZMCL_15092023191145_ZMCLSEINtimationBRSR006092023.pdf"
+  },
+  {
+    "sno": 57,
+    "company": "RAJ RAYON INDUSTRIES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/RAJRAYON1_15092023183407_Reg342fLetterforBRSR.pdf"
+  },
+  {
+    "sno": 58,
+    "company": "Unichem Laboratories Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SHALINI_KAMATH_15092023140755_BRSR_ULL1.pdf"
+  },
+  {
+    "sno": 59,
+    "company": "Bikaji Foods International Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/BIKAJIFOODS_15092023120543_BikajiBRSR31032023.pdf"
+  },
+  {
+    "sno": 60,
+    "company": "Lupin Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/Lupin2_15092023111309_BRSR.pdf"
+  },
+  {
+    "sno": 61,
+    "company": "VST INDUSTRIES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/VSTIND_15092023101620_BRSR280723SE.pdf"
+  },
+  {
+    "sno": 62,
+    "company": "Federal-Mogul Goetze (India) Limited.",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/Federal_14092023171101_BRSR_Report.pdf"
+  },
+  {
+    "sno": 63,
+    "company": "Thyrocare Technologies Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/THYROCARE_14092023131319_BRSRPDF202223.pdf"
+  },
+  {
+    "sno": 64,
+    "company": "Spandana Sphoorty Financial Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SPANDANA_13092023172927_SE_BRSR.pdf"
+  },
+  {
+    "sno": 65,
+    "company": "AXISCADES Technologies Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/AXISCADES_13092023152646_AXISCADESBRSRFY2023.pdf"
+  },
+  {
+    "sno": 66,
+    "company": "Sandur Manganese & Iron Ores Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SANDUR_13092023145701_BRSR.pdf"
+  },
+  {
+    "sno": 67,
+    "company": "PETRONET LNG LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PETRONET_12092023165916_6BRR.pdf"
+  },
+  {
+    "sno": 68,
+    "company": "CONFIDENCE PETROLEUM INDIA LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/CONFIPET_12092023153948_CPILBRSR.pdf"
+  },
+  {
+    "sno": 69,
+    "company": "Tech Mahindra Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/TECH_KETAKI_12092023153605_TML_BRSR2022_23.pdf"
+  },
+  {
+    "sno": 70,
+    "company": "GE Power India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GEPILDEE_12092023111332_BRSR.pdf"
+  },
+  {
+    "sno": 71,
+    "company": "Kellton Tech Solutions Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/KELLTONTEC_12092023103137_KTSL_BRSR_2023.pdf"
+  },
+  {
+    "sno": 72,
+    "company": "HDFC Life Insurance Company Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PRASAD_11092023181114_BRSR.pdf"
+  },
+  {
+    "sno": 73,
+    "company": "Race Eco Chain Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/RACEECOCHAIN_11092023162309_BRSR.pdf"
+  },
+  {
+    "sno": 74,
+    "company": "MMTC LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ajaymisra_11092023153302_BRSRNSE.pdf"
+  },
+  {
+    "sno": 75,
+    "company": "RattanIndia Enterprises Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/RTNINDIA_11092023132058_BRSRIntimation.pdf"
+  },
+  {
+    "sno": 76,
+    "company": "RattanIndia Power Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/RTNPOWER_11092023123155_BRSRReportRPL.pdf"
+  },
+  {
+    "sno": 77,
+    "company": "JINDAL STEEL & POWER LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/JINDALSTEL_11092023122320_BRSR.pdf"
+  },
+  {
+    "sno": 78,
+    "company": "BOMBAY SUPER HYBRID SEEDS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/BSHSL_08092023231052_BRSRREPORT.pdf"
+  },
+  {
+    "sno": 79,
+    "company": "Vardhman Holdings Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/VHL_08092023212143_VHL_BRSR_stx_covering.pdf"
+  },
+  {
+    "sno": 80,
+    "company": "Vardhman Acrylics Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/VARDHACRLC_08092023204221_VAL_BRSR_sw.pdf"
+  },
+  {
+    "sno": 81,
+    "company": "Vardhman Textiles Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/VTL_08092023203906_VTXL_BRSR.pdf"
+  },
+  {
+    "sno": 82,
+    "company": "D. P. Abhushan Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/DPABHUSHAN_08092023203125_BRSR.pdf"
+  },
+  {
+    "sno": 83,
+    "company": "ROSSELL INDIA LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ROSSELLIND_08092023194812_Business_Responsibility_and_Sustainability_Report_2023.pdf"
+  },
+  {
+    "sno": 84,
+    "company": "Gujarat Mineral Development Corporation Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GMDCLTD_08092023192423_GMDC_BRSR.pdf"
+  },
+  {
+    "sno": 85,
+    "company": "Kirloskar Industries Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/KIRLOSIND_08092023192433_BRSR.pdf"
+  },
+  {
+    "sno": 86,
+    "company": "D B Realty Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/DBREALTY_08092023185601_SE_Intimation_BRSR.pdf"
+  },
+  {
+    "sno": 87,
+    "company": "Amara Raja Batteries Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/AMARAJABAT_08092023180421_BRSR_fy23.pdf"
+  },
+  {
+    "sno": 88,
+    "company": "Anupam Rasayan India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ANURAS_08092023172447_ARILSLDSTX20230908058BRSR.pdf"
+  },
+  {
+    "sno": 89,
+    "company": "Jaiprakash Associates Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/JPASSOCIAT_08092023170357_BRSR_2023.pdf"
+  },
+  {
+    "sno": 90,
+    "company": "IRB Infrastructure Developers Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/IRB_08092023165416_BRSR.pdf"
+  },
+  {
+    "sno": 91,
+    "company": "STEEL EXCHANGE INDIA LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/STEELXIND_08092023163724_IntimationofBRSRFinal.pdf"
+  },
+  {
+    "sno": 92,
+    "company": "ELGI EQUIPMENTS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ELGIEQUIP_08092023160252_EELBRSR.pdf"
+  },
+  {
+    "sno": 93,
+    "company": "Shalimar Paints Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SHALPAINTS_08092023144837_BusinessResponsibilityandSustainabilityReport.pdf"
+  },
+  {
+    "sno": 94,
+    "company": "CHAMAN LAL SETIA EXPORTS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/CLSEL_08092023141535_AR.pdf"
+  },
+  {
+    "sno": 95,
+    "company": "ZOTA HEALTH CARE LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ZOTA_08092023124801_BRSR202223.pdf"
+  },
+  {
+    "sno": 96,
+    "company": "VERANDA LEARNING SOLUTIONS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/Verandaipo_08092023104354_BRSR07092023.pdf"
+  },
+  {
+    "sno": 97,
+    "company": "Lincoln Pharmaceuticals Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/LINCOLN_08092023104506_BRSR202223.pdf"
+  },
+  {
+    "sno": 98,
+    "company": "PC Jeweller Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PCJEWELLER_07092023235330_BRSRReport.pdf"
+  },
+  {
+    "sno": 99,
+    "company": "HMT LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/HMT_07092023225125_BRSR.pdf"
+  },
+  {
+    "sno": 100,
+    "company": "KDDL Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/KDDL_07092023223815_BRSR.pdf"
+  },
+  {
+    "sno": 101,
+    "company": "Roto Pumps Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ROTO_07092023214946_Intimationofbrsr.pdf"
+  },
+  {
+    "sno": 102,
+    "company": "NAZARA TECHNOLOGIES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/NAZARA_07092023212239_BRSRSIGNED.pdf"
+  },
+  {
+    "sno": 103,
+    "company": "Inox Wind Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/INOXWIND_07092023210401_IWL_BRSR_2023.pdf"
+  },
+  {
+    "sno": 104,
+    "company": "ASHOKA BUILDCON LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ASHOKA_08092023183150_ABL_AGM_29092023_BRSR_22_23_Reg_34_R.pdf"
+  },
+  {
+    "sno": 105,
+    "company": "PENNAR INDUSTRIES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PENIND_07092023203404_BRSR.pdf"
+  },
+  {
+    "sno": 106,
+    "company": "SMS Pharmaceuticals Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SMSPHARMA_07092023195801_BRSR.pdf"
+  },
+  {
+    "sno": 107,
+    "company": "SHRIRAM PROPERTIES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SHRIRAMPPS_07092023194641_BRSRFY23.pdf"
+  },
+  {
+    "sno": 108,
+    "company": "Gallantt Ispat Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GALLANTT_07092023195004_Gallantt_BRSR_2023.pdf"
+  },
+  {
+    "sno": 109,
+    "company": "MUTHOOT FINANCE LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MUTHOOTFIN_07092023193915_BRSR_REPORT_FOR_FY_2023.pdf"
+  },
+  {
+    "sno": 110,
+    "company": "Mishra Dhatu Nigam Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MIDHANI_07092023192953_MDN_BRSR_FY22_23.pdf"
+  },
+  {
+    "sno": 111,
+    "company": "Datamatics Global Services Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/DGSL_07092023191154_SEIntimation07092023BRSR.pdf"
+  },
+  {
+    "sno": 112,
+    "company": "JASH ENGINEERING LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/JASH_07092023184200_JASHBRSR2023.pdf"
+  },
+  {
+    "sno": 113,
+    "company": "Lux Industries Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/LUXIND_07092023180659_BRSR20222023.pdf"
+  },
+  {
+    "sno": 114,
+    "company": "Power Mech Projects Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/POWERMECH_07092023180351_PM_BRSR_Final.pdf"
+  },
+  {
+    "sno": 115,
+    "company": "Vidhi Specialty Food Ingredients Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/VIDHIING_07092023175553_BRSRVidhi2023.pdf"
+  },
+  {
+    "sno": 116,
+    "company": "Rico Auto Industries Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/RICOAUTO_07092023172253_BRSR.pdf"
+  },
+  {
+    "sno": 117,
+    "company": "Paras Defence and Space Technologies Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PARAS_07092023171550_BRSRSigned.pdf"
+  },
+  {
+    "sno": 118,
+    "company": "SHREE PUSHKAR CHEMICALS & FERTILISERS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SHREEPUSHK_07092023164636_BRSRDisclosure.pdf"
+  },
+  {
+    "sno": 119,
+    "company": "Syncom Formulations (India) Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SFILFINANCE123_07092023155905_SEBRSR2023.pdf"
+  },
+  {
+    "sno": 120,
+    "company": "Tilaknagar Industries Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/gthakur_07092023155742_BRSRFinal.pdf"
+  },
+  {
+    "sno": 121,
+    "company": "Satia Industries Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SATIA_07092023151950_BRSR.pdf"
+  },
+  {
+    "sno": 122,
+    "company": "Bajaj Healthcare Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/BAJAJHCARE_07092023142807_BHCBRSLFINALsigned07092023.pdf"
+  },
+  {
+    "sno": 123,
+    "company": "Shakti Pumps (India) Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SHAKTIPUMP_07092023132441_IntimationofSubmissionofBRSR.pdf"
+  },
+  {
+    "sno": 124,
+    "company": "SASTASUNDAR VENTURES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SASTASUNDR_07092023131409_SVLAnnualBRSR2023sign.pdf"
+  },
+  {
+    "sno": 125,
+    "company": "Emami Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/EMAMILTD_07092023123503_BRSRFY23.pdf"
+  },
+  {
+    "sno": 126,
+    "company": "ESAB India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ESABINDIA_07092023124503_BRSRreport.pdf"
+  },
+  {
+    "sno": 127,
+    "company": "Prime Focus Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PFOCUS_07092023115613_IntimationofBRSRsigned.pdf"
+  },
+  {
+    "sno": 128,
+    "company": "DCW LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/DCW_07092023110352_BRSR_BSE_NSE.pdf"
+  },
+  {
+    "sno": 129,
+    "company": "Bombay Burmah Trading Corporation Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/KML_06092023233015_SEUploadBBTCLBRSR2023.pdf"
+  },
+  {
+    "sno": 130,
+    "company": "OMAXE LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/OMAXE_06092023232341_NoticeOfAGM_AnnualReport.pdf"
+  },
+  {
+    "sno": 131,
+    "company": "HIMATSINGKA SEIDE LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/HIMATSEIDE_06092023223946_BRSR_forUploading.pdf"
+  },
+  {
+    "sno": 132,
+    "company": "Kaveri Seed Company Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/KSCL_06092023215819_BRSR.pdf"
+  },
+  {
+    "sno": 133,
+    "company": "ETHOS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ETHOS_06092023214734_55.pdf"
+  },
+  {
+    "sno": 134,
+    "company": "PATANJALI FOODS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/RUCHI_06092023211601_Letter_to_SE_BRSR.pdf"
+  },
+  {
+    "sno": 135,
+    "company": "Gufic Biosciences Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GUFIC_06092023204501_IntimationofBRSR.pdf"
+  },
+  {
+    "sno": 136,
+    "company": "GTL INFRASTRUCTURE LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GTLINFRA1_06092023201958_GTLINFRA_20230906_LODR_34_BRSR_2023.pdf"
+  },
+  {
+    "sno": 137,
+    "company": "TARC LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/TARC_06092023200222_BRSRs.pdf"
+  },
+  {
+    "sno": 138,
+    "company": "Jindal Poly Films Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/JINDALPOLY_06092023192053_JPFL_BRSR_New.pdf"
+  },
+  {
+    "sno": 139,
+    "company": "SPACENET ENTERPRISES INDIA LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SPCENET_06092023193529_SPACENETBRSR.pdf"
+  },
+  {
+    "sno": 140,
+    "company": "HLE Glascoat Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/HLEGLASCOAT_06092023193021_522215BRSRFY2223.pdf"
+  },
+  {
+    "sno": 141,
+    "company": "HFCL Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/AHMED_06092023185704_HFCL_STX_BRSR_06092023.pdf"
+  },
+  {
+    "sno": 142,
+    "company": "Fusion Micro Finance Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/FUSIONHO_06092023185720_File2.pdf"
+  },
+  {
+    "sno": 143,
+    "company": "GTPL Hathway Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GTPL_06092023184247_CoveringLetterBRSR.pdf"
+  },
+  {
+    "sno": 144,
+    "company": "Shaily Engineering Plastics Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/Shailyengineering_06092023184120_Submission_of_BRSR_06092023.pdf"
+  },
+  {
+    "sno": 145,
+    "company": "SOM DISTILLERIES & BREWERIES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SDBL_06092023182849_SE_BRSR.pdf"
+  },
+  {
+    "sno": 146,
+    "company": "ASHAPURA MINECHEM LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ASHAPURMIN_06092023181135_AnnualReport20222023.pdf"
+  },
+  {
+    "sno": 147,
+    "company": "PB Fintech Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/POLICYBZR_06092023180957_BRSRCovering.pdf"
+  },
+  {
+    "sno": 148,
+    "company": "KFin Technologies Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/KFINTECHNSE_06092023175043_BRSR.pdf"
+  },
+  {
+    "sno": 149,
+    "company": "PNC Infratech Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PNCINFRA_06092023172559_BRSR.pdf"
+  },
+  {
+    "sno": 150,
+    "company": "Indiabulls Real Estate Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/IBREL_06092023173007_IBREL_Exchange_Intimation_BRSR_06092023.pdf"
+  },
+  {
+    "sno": 151,
+    "company": "LT Foods Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/532783_06092023172036_BRSRIntimation.pdf"
+  },
+  {
+    "sno": 152,
+    "company": "General Insurance Corporation of India",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GICRE_06092023163946_BRSR202223.pdf"
+  },
+  {
+    "sno": 153,
+    "company": "CARTRADE TECH LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/CARTRADE_06092023163731_Covering_letter_for_BRSR.pdf"
+  },
+  {
+    "sno": 154,
+    "company": "Arman Financial Services Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ARMANFIN_06092023163647_BRSRCovering.pdf"
+  },
+  {
+    "sno": 155,
+    "company": "HI-TECH PIPES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/HITECH_06092023161127_Business_Responsibility_and_Sustainability_Report_FY23.pdf"
+  },
+  {
+    "sno": 156,
+    "company": "Gateway Distriparks Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GATEWAY_06092023155736_GDL_BRSR_FY22_23.pdf"
+  },
+  {
+    "sno": 157,
+    "company": "puravankara limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PURVA_06092023153229_PLIntimationBRSR.pdf"
+  },
+  {
+    "sno": 158,
+    "company": "STYLAM INDUSTRIES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/STYLAMIND_06092023151810_brsrbsense06092023.pdf"
+  },
+  {
+    "sno": 159,
+    "company": "INDIA TOURISM DEVELOPMENT CORPORATION LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ITDC1_06092023150110_Final_BRSR_Filing.pdf"
+  },
+  {
+    "sno": 160,
+    "company": "Supriya Lifescience Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SUPRIYA_06092023144834_CovLetter.pdf"
+  },
+  {
+    "sno": 161,
+    "company": "Nalwa Sons Investments Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/NSIL_06092023144724_BRSRNSIL.pdf"
+  },
+  {
+    "sno": 162,
+    "company": "Techno Electric & Engineering Company Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/TECHNOE_06092023105200_BRSRFY2023TECHNOocred.pdf"
+  },
+  {
+    "sno": 163,
+    "company": "UNITED DRILLING TOOLS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/UNIDT_06092023104409_BRSR_2023.pdf"
+  },
+  {
+    "sno": 164,
+    "company": "Amber Enterprises India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/AMBER_06092023102834_BRSR2023.pdf"
+  },
+  {
+    "sno": 165,
+    "company": "GANESH BENZOPLAST LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GANESHBE_06092023094653_BRSRREPORT2023.pdf"
+  },
+  {
+    "sno": 166,
+    "company": "Bharat Dynamics Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/BDL_06092023094412_BDLSEBRSRFY202223.pdf"
+  },
+  {
+    "sno": 167,
+    "company": "Dixon Technologies (India) Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/DIXON_05092023225425_BRSRIntimationFIling05092023.pdf"
+  },
+  {
+    "sno": 168,
+    "company": "Finolex Cables Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/CSgayatri_05092023215459_FinalBRSRsigned.pdf"
+  },
+  {
+    "sno": 169,
+    "company": "Medplus Health Services Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MEDPLUS_05092023215251_BRSRFinal.pdf"
+  },
+  {
+    "sno": 170,
+    "company": "Sunteck Realty Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SUNTECK_05092023213602_BRSR2023.pdf"
+  },
+  {
+    "sno": 171,
+    "company": "Star Cement Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/STARCEMENT_05092023212646_Intimation_of_BRSR_FY_22_23.pdf"
+  },
+  {
+    "sno": 172,
+    "company": "POLY MEDICURE LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/POLYMED_05092023210136_BRSR_covering.pdf"
+  },
+  {
+    "sno": 173,
+    "company": "Parag Milk Foods Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PARAGMILK_05092023204612_BRSRPMFLAR202223.pdf"
+  },
+  {
+    "sno": 174,
+    "company": "CHEMCON SPECIALITY CHEMICALS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/CHEMCON_05092023202031_BRSRuploaded05092023.pdf"
+  },
+  {
+    "sno": 175,
+    "company": "KRBL Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/BIBHU_05092023195911_Signed_STX_BRSR.pdf"
+  },
+  {
+    "sno": 176,
+    "company": "Subex Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SUBEXLIMITED_05092023194142_IntimationofBRSR.pdf"
+  },
+  {
+    "sno": 177,
+    "company": "MAX HEALTHCARE INSTITUTE LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MAXHEALTH_05092023191559_SEIntimation_BRSR.pdf"
+  },
+  {
+    "sno": 178,
+    "company": "COCHIN SHIPYARD LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/Aswi4739_05092023191105_SE_Intimation_BRSR_2023.pdf"
+  },
+  {
+    "sno": 179,
+    "company": "Religare Enterprises Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/RELIGARE_05092023185038_RELIGAREBRSR202223.pdf"
+  },
+  {
+    "sno": 180,
+    "company": "Rail Vikas Nigam Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/RVNL_05092023183844_RVNLBRSRFINAL05092023.pdf"
+  },
+  {
+    "sno": 181,
+    "company": "Black Box Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/BBOX_05092023183145_SEBRSR_04092023.pdf"
+  },
+  {
+    "sno": 182,
+    "company": "Sree Rayalaseema Hi-Strength Hypo Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SRHHYPOLTD_05092023182734_BRSR.pdf"
+  },
+  {
+    "sno": 183,
+    "company": "Ahluwalia Contracts (India) Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/532811_05092023182933_BRSR_ACIL.pdf"
+  },
+  {
+    "sno": 184,
+    "company": "Vardhman Special Steels Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/VSSL_05092023182910_VSSL_BRSR_2022_23.pdf"
+  },
+  {
+    "sno": 185,
+    "company": "Balmer Lawrie & Company Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/BALMLAWRIE_05092023180857_FinalSEBLNoticeandAR2223.pdf"
+  },
+  {
+    "sno": 186,
+    "company": "GFL Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/Divya_05092023174904_GFLBRSRIntimation2023.pdf"
+  },
+  {
+    "sno": 187,
+    "company": "Glenmark Pharmaceuticals Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GLENMARK_05092023173841_BSE_NSEBRSRSigned.pdf"
+  },
+  {
+    "sno": 188,
+    "company": "Carysil Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ACRYSIL_05092023173513_BRSR_merged.pdf"
+  },
+  {
+    "sno": 189,
+    "company": "Olectra Greentech Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/OLECTRA_05092023171307_BRSR.pdf"
+  },
+  {
+    "sno": 190,
+    "company": "SHILPA MEDICARE LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SHILPAMED_05092023170428_BRSRupload.pdf"
+  },
+  {
+    "sno": 191,
+    "company": "Dish TV India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/DISHTV1_05092023164328_BRSR.pdf"
+  },
+  {
+    "sno": 192,
+    "company": "Marathon Nextgen Realty Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MARATHON_05092023163322_BRSR.pdf"
+  },
+  {
+    "sno": 193,
+    "company": "BODAL CHEMICALS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/BODALCHEM_05092023162853_BRSR_PDF.pdf"
+  },
+  {
+    "sno": 194,
+    "company": "Likhitha Infrastructure Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/LIKHITHA_05092023160840_BRSR.pdf"
+  },
+  {
+    "sno": 195,
+    "company": "NATIONAL FERTILIZERS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/NFL_05092023160019_SignedNSEBRSR.pdf"
+  },
+  {
+    "sno": 196,
+    "company": "Goodluck India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GOODLUCK_05092023155725_BRSR.pdf"
+  },
+  {
+    "sno": 197,
+    "company": "Indiabulls Housing Finance Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/IHFL_05092023152425_BRSR.pdf"
+  },
+  {
+    "sno": 198,
+    "company": "Genesys International Corporation Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GENESYS_05092023153117_Genesys_BRSR_intimationsd.pdf"
+  },
+  {
+    "sno": 199,
+    "company": "Dhani Services Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/DHANI_05092023151245_BRSR.pdf"
+  },
+  {
+    "sno": 200,
+    "company": "NLC India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/NLCINDIA_05092023150406_BRSR2023.pdf"
+  },
+  {
+    "sno": 201,
+    "company": "HeidelbergCement India limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/HEIDELBERG_05092023141824_HCILBRSRFY23.pdf"
+  },
+  {
+    "sno": 202,
+    "company": "Monte Carlo Fashions Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MONTECARLO_05092023131909_brrpdf.pdf"
+  },
+  {
+    "sno": 203,
+    "company": "RAMCO INDUSTRIES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/RAMCOIND_05092023122739_RIL_AR2023BRSR.pdf"
+  },
+  {
+    "sno": 204,
+    "company": "FDC LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/FDC_05092023121723_Stockexchange.pdf"
+  },
+  {
+    "sno": 205,
+    "company": "NATCO PHARMA LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/NATCOPHARM_05092023120043_SEbrsreport.pdf"
+  },
+  {
+    "sno": 206,
+    "company": "RAMA STEEL TUBES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/RAMASTEEL_05092023120039_SignedIntimationofBRSR05092023.pdf"
+  },
+  {
+    "sno": 207,
+    "company": "Prakash Industries Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PRAKASH_05092023115850_PIL_Letter_to_SE_BRSR_2022_23.pdf"
+  },
+  {
+    "sno": 208,
+    "company": "MATRIMONY.COM LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MATRIMONY_05092023111426_BusinessResponsibilityandSustainabilityReport.pdf"
+  },
+  {
+    "sno": 209,
+    "company": "Garden Reach Shipbuilders & Engineers Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GRSE_05092023090144_BRSR_Report_FY_2022_23.pdf"
+  },
+  {
+    "sno": 210,
+    "company": "Southern Petrochemicals Industries Corporation Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SPIC_04092023230949_BRSR.pdf"
+  },
+  {
+    "sno": 211,
+    "company": "Antony Waste Handling Cell Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/AWHCL_04092023225958_AWHCLBRSR202223.pdf"
+  },
+  {
+    "sno": 212,
+    "company": "Time Technoplast Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/TIMETECHNO_04092023225440_BRSR04092023.pdf"
+  },
+  {
+    "sno": 213,
+    "company": "Heubach Colorants India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/CLNINDIA_04092023220939_SEUPLOADBRSR.pdf"
+  },
+  {
+    "sno": 214,
+    "company": "SADHANA NITROCHEM LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SNCL_04092023220730_BRSR.pdf"
+  },
+  {
+    "sno": 215,
+    "company": "Genus Power Infrastructures Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GENUSPOWER_04092023214736_BRSR_final_SIGNED.pdf"
+  },
+  {
+    "sno": 216,
+    "company": "LEMON TREE HOTELS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/LEMONTREE_04092023205306_LTHL_BRSR_2023.pdf"
+  },
+  {
+    "sno": 217,
+    "company": "NBCC (India) Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/NBCC_04092023204042_nbccbrsr2023NSEBSE04092023.pdf"
+  },
+  {
+    "sno": 218,
+    "company": "RADICO KHAITAN LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/RADICO_04092023202315_BRSRsubmission.pdf"
+  },
+  {
+    "sno": 219,
+    "company": "KNR Constructions Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/KNRCON_04092023201345_BRSR.pdf"
+  },
+  {
+    "sno": 220,
+    "company": "Dishman Carbogen Amcis Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/DCAL_04092023200758_DCALBRSR20222023.pdf"
+  },
+  {
+    "sno": 221,
+    "company": "Morepen Laboratories Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MOREPENLAB_04092023194207_SEintimationBRSR4923.pdf"
+  },
+  {
+    "sno": 222,
+    "company": "SARDA ENERGY & MINERALS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SARDAEN_04092023192830_SEML_BRSR.pdf"
+  },
+  {
+    "sno": 223,
+    "company": "Goldiam International Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GOLDIAM_04092023192821_IntimationBRSR.pdf"
+  },
+  {
+    "sno": 224,
+    "company": "Gujarat Fluorochemicals Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/FLUOROCHEM_04092023192220_GFCL_BRSR_2022_23.pdf"
+  },
+  {
+    "sno": 225,
+    "company": "Hindware Home Innovation Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SHIL_04092023192150_HHILBRSR.pdf"
+  },
+  {
+    "sno": 226,
+    "company": "GOKUL AGRO RESOURCES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GOKULAGRO_04092023191447_GARL_BRSR.pdf"
+  },
+  {
+    "sno": 227,
+    "company": "GULSHAN POLYOLS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GULPOLY_04092023190142_stxintimation04092023.pdf"
+  },
+  {
+    "sno": 228,
+    "company": "Century Plyboards (India) Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/CENTURYPLY_04092023185424_CPIL_Reg34_BRSR.pdf"
+  },
+  {
+    "sno": 229,
+    "company": "MAITHAN ALLOYS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MAITHANALL_04092023181100_BRSR.pdf"
+  },
+  {
+    "sno": 230,
+    "company": "Hindustan Oil Exploration Company Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/HINDOILEXPCS_04092023180252_BRSReport.pdf"
+  },
+  {
+    "sno": 231,
+    "company": "Sunflag Iron and Steel Company Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SUNFLAG_04092023175510_Sunflag_BRSR_2022_23_sd.pdf"
+  },
+  {
+    "sno": 232,
+    "company": "La Opala RG Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/LAOPALA_04092023173527_BRSR_Report_2022_23.pdf"
+  },
+  {
+    "sno": 233,
+    "company": "Harsha Engineers International Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/Harsha_04092023171026_HEIL_BRSR_Upload.pdf"
+  },
+  {
+    "sno": 234,
+    "company": "JAIPRAKASH POWER VENTURES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/JPPOWER_04092023170320_JPVL_BRSR_2023.pdf"
+  },
+  {
+    "sno": 235,
+    "company": "Balkrishna Industries Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/BALKRISIND_04092023121255_LetterwithBRSRsigned.pdf"
+  },
+  {
+    "sno": 236,
+    "company": "ITI Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ITI_04092023114725_BRSR_2023.pdf"
+  },
+  {
+    "sno": 237,
+    "company": "Aditya Birla Fashion and Retail Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ABFRL_04092023105824_lettertosebrsr.pdf"
+  },
+  {
+    "sno": 238,
+    "company": "Technocraft Industries (India) Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/TIIL_04092023105148_BRSR2023new.pdf"
+  },
+  {
+    "sno": 239,
+    "company": "GAIL (India) Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/DEVIKA_04092023102338_BRSR.pdf"
+  },
+  {
+    "sno": 240,
+    "company": "AstraZeneca Pharma India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ASTRAZEN_04092023094407_BRSR_2022_23.pdf"
+  },
+  {
+    "sno": 241,
+    "company": "Aarti Drugs Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/AARTIDRUGS_03092023232319_AARTIDRUGS.pdf"
+  },
+  {
+    "sno": 242,
+    "company": "TAMIL NADU NEWSPRINT & PAPERS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/TNPL_03092023215935_BRSR03092023CSDSC.pdf"
+  },
+  {
+    "sno": 243,
+    "company": "STEELCAST LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/STEELCAS_03092023184627_MergedBRSRPDFCoveringLetter.pdf"
+  },
+  {
+    "sno": 244,
+    "company": "Hinduja Global Solutions Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/HGS_03092023175802_HGS_BRSR.pdf"
+  },
+  {
+    "sno": 245,
+    "company": "Tamilnadu Petroproducts Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/TPLSECTL_03092023145215_BRSRsubmission.pdf"
+  },
+  {
+    "sno": 246,
+    "company": "Manali Petrochemicals Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MPLSECTL_03092023104202_SE_BRSR_Final_Signed.pdf"
+  },
+  {
+    "sno": 247,
+    "company": "Fino Payments Bank Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/FINOPB_02092023234531_AR2023signed.pdf"
+  },
+  {
+    "sno": 248,
+    "company": "Gujarat Gas Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GUJGASLTD_02092023222825_intidispatchannualreport02092023ocr.pdf"
+  },
+  {
+    "sno": 249,
+    "company": "Ami Organics Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/AMIORG_02092023213837_BRSRSWsigned020923.pdf"
+  },
+  {
+    "sno": 250,
+    "company": "Shree Renuka Sugars Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/RENUKA_02092023213330_BRSR2223SE.pdf"
+  },
+  {
+    "sno": 251,
+    "company": "Deep Industries Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/DEEPINDS_02092023210654_BRSR.pdf"
+  },
+  {
+    "sno": 252,
+    "company": "3i INFOTECH LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/3IINFOTECHLTD_02092023210031_BRSR.pdf"
+  },
+  {
+    "sno": 253,
+    "company": "Edelweiss Financial Services Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/EDELWEISS_02092023202833_EFSLAnnualReport2023.pdf"
+  },
+  {
+    "sno": 254,
+    "company": "PTC India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PTC_02092023202546_BUSINESSRESPONSIBILITYSUSTAINABILITYREPORT.pdf"
+  },
+  {
+    "sno": 255,
+    "company": "AGS Transact Technologies Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/AGSTRA_02092023194701_IntimationBRSR292023.pdf"
+  },
+  {
+    "sno": 256,
+    "company": "CAMPUS ACTIVEWEAR LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/CAMPUSSHOES_02092023193726_BRSR.pdf"
+  },
+  {
+    "sno": 257,
+    "company": "VENUS PIPES & TUBES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/VENUSPIPES_02092023190522_Intimation_of_BRSR.pdf"
+  },
+  {
+    "sno": 258,
+    "company": "Eris Lifesciences Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ERIS_02092023190423_BRSRSIGNEDFINAL.pdf"
+  },
+  {
+    "sno": 259,
+    "company": "Rushil Decor Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/RUSHIL_02092023183205_BRSRReport.pdf"
+  },
+  {
+    "sno": 260,
+    "company": "Cantabil Retail India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/CANTABIL_02092023175052_BRSR2023.pdf"
+  },
+  {
+    "sno": 261,
+    "company": "INFIBEAM AVENUES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/INFIBEAM_02092023165106_IntimationBRSR01092023.pdf"
+  },
+  {
+    "sno": 262,
+    "company": "Refex Industries Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/REFEX_02092023155911_RefexBRSR2023.pdf"
+  },
+  {
+    "sno": 263,
+    "company": "TEXMACO RAIL & ENGINEERING LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/TEXRAIL_02092023155626_TexRailBRSRPDF.pdf"
+  },
+  {
+    "sno": 264,
+    "company": "SHIVALIK BIMETAL CONTROLS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SBCL_02092023153021_StxBRSR.pdf"
+  },
+  {
+    "sno": 265,
+    "company": "GRM OVERSEAS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GRMOVER_02092023151625_Intimationbrsrsigned.pdf"
+  },
+  {
+    "sno": 266,
+    "company": "Jayaswal Neco Industries Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/JAYNECOIND3_02092023150158_BRSR.pdf"
+  },
+  {
+    "sno": 267,
+    "company": "Delhivery Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/DELHIVERYLTD_02092023144055_BRSRSigned.pdf"
+  },
+  {
+    "sno": 268,
+    "company": "Garware Hi-Tech Films Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GRWRHITECH_02092023125435_BRSR_Report.pdf"
+  },
+  {
+    "sno": 269,
+    "company": "BARBEQUE NATION HOSPITALITY LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/BARBEQUE_02092023124341_SubmissionofBRSR.pdf"
+  },
+  {
+    "sno": 270,
+    "company": "PARADEEP PHOSPHATES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PPLTD_02092023122847_PPLBRSRtoSE02092023.pdf"
+  },
+  {
+    "sno": 271,
+    "company": "Mold-Tek Packaging Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MOLDTKPAC_02092023122450_COVERPLUSBRSR23.pdf"
+  },
+  {
+    "sno": 272,
+    "company": "Krsnaa Diagnostics Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/KRSNAA_02092023115901_543328.pdf"
+  },
+  {
+    "sno": 273,
+    "company": "SUPRAJIT ENGINEERING LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SUPRAJIT_02092023085137_IntimationofBRSR.pdf"
+  },
+  {
+    "sno": 274,
+    "company": "Insecticides (India) Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/INSECTICID_01092023235427_IILBRSR2023_Intimation.pdf"
+  },
+  {
+    "sno": 275,
+    "company": "Suzlon Energy Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SUZLON1_01092023234516_Suzlon01092023.pdf"
+  },
+  {
+    "sno": 276,
+    "company": "BEML Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/BEML_01092023212521_IntimationOfBRSR_BEML.pdf"
+  },
+  {
+    "sno": 277,
+    "company": "Ester Industries Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ESTER_01092023205043_SignedStxBRSR.pdf"
+  },
+  {
+    "sno": 278,
+    "company": "DR. REDDY'S LABORATORIES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/DRREDDY_01092023203550_DRL_BRSR_FY2023.pdf"
+  },
+  {
+    "sno": 279,
+    "company": "Glenmark Life Sciences Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GLS_01092023203711_GLS_BRSR_Signed.pdf"
+  },
+  {
+    "sno": 280,
+    "company": "QUESS CORP LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/QUESS_01092023193433_SE_Intimation_BRSR_01092023.pdf"
+  },
+  {
+    "sno": 281,
+    "company": "J.Kumar Infraprojects Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/JKInfra_01092023191041_JKILletterforBRSR.pdf"
+  },
+  {
+    "sno": 282,
+    "company": "Imagicaaworld Entertainment Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/IMAGICAA_01092023190708_BRSRSubmission.pdf"
+  },
+  {
+    "sno": 283,
+    "company": "Kiri Industries Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/KIRIINDUS_01092023184747_Intimation_BRSR.pdf"
+  },
+  {
+    "sno": 284,
+    "company": "SJVN Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SJVN_01092023175930_1.pdf"
+  },
+  {
+    "sno": 285,
+    "company": "Gujarat Alkalies and Chemicals Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/JAXESH_ZAVERI_01092023175812_SEBRSR_2022_23_s.pdf"
+  },
+  {
+    "sno": 286,
+    "company": "YES Bank Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/YESBANK_01092023174911_Integrated_Annual_Report_2022_23.pdf"
+  },
+  {
+    "sno": 287,
+    "company": "S. P. APPARELS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SPAL_01092023172321_CVletterBRSR2023.pdf"
+  },
+  {
+    "sno": 288,
+    "company": "HINDUSTAN COPPER LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/HINDCOPPER_01092023170616_Reg34BRSR1Sep2023.pdf"
+  },
+  {
+    "sno": 289,
+    "company": "SANGAM (INDIA) LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SANGAMIND_01092023170555_SEUPLOADSIGN.pdf"
+  },
+  {
+    "sno": 290,
+    "company": "Hikal Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/HIKAL_01092023165720_HikalBRSRfiling2023.pdf"
+  },
+  {
+    "sno": 291,
+    "company": "MADRAS FERTILIZERS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MADRASFERT_01092023162321_MFLBRSR2223NSE.pdf"
+  },
+  {
+    "sno": 292,
+    "company": "G R Infraprojects Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GRINFRA_01092023154737_SubmissionofBRSRFY2023.pdf"
+  },
+  {
+    "sno": 293,
+    "company": "Mastek Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MASTEK12_01092023154858_BRSRsubmission29082023signed.pdf"
+  },
+  {
+    "sno": 294,
+    "company": "Jindal Stainless Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/JSL_01092023154107_Final_BRSR_Jindal_BRSR_2023.pdf"
+  },
+  {
+    "sno": 295,
+    "company": "HEXA TRADEX LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/HEXATRADEX_01092023152602_BRSRIntimation.pdf"
+  },
+  {
+    "sno": 296,
+    "company": "Venky's (India) Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/VENKEYS_01092023152337_Venkys_BRSR_Mar23.pdf"
+  },
+  {
+    "sno": 297,
+    "company": "Filatex India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/FILATEX_01092023150441_BRSR2023.pdf"
+  },
+  {
+    "sno": 298,
+    "company": "BLS International Services Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/BLS_01092023131730_BRSR.pdf"
+  },
+  {
+    "sno": 299,
+    "company": "Mangalore Chemicals & Fertilizers Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MANGCHEFER_01092023132003_BRSR202223toSEsMRDS.pdf"
+  },
+  {
+    "sno": 300,
+    "company": "DPSC Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/DPSCLTD_01092023120904_BRSRFY2022_23.pdf"
+  },
+  {
+    "sno": 301,
+    "company": "Indoco Remedies Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/INDOCO_01092023100644_IntimationBRSR.pdf"
+  },
+  {
+    "sno": 302,
+    "company": "Salasar Techno Engineering Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SALASAR_31082023213831_BRSRsigned.pdf"
+  },
+  {
+    "sno": 303,
+    "company": "Welspun India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/WELSPUNIND_31082023212120_Reg34_BRSR_2023_signed.pdf"
+  },
+  {
+    "sno": 304,
+    "company": "ONMOBILE GLOBAL LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ONMOBILE123_31082023192404_IntimationofBRSR.pdf"
+  },
+  {
+    "sno": 305,
+    "company": "WELSPUN ENTERPRISES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/WELENT_31082023184236_BRSR_Uploadfile.pdf"
+  },
+  {
+    "sno": 306,
+    "company": "BIGBLOC CONSTRUCTION LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/BIGBLOC_31082023182720_brsr.pdf"
+  },
+  {
+    "sno": 307,
+    "company": "ALLSEC TECHNOLOGIES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ALLSEC_31082023175953_SEIntimationBRSR31082023v1.pdf"
+  },
+  {
+    "sno": 308,
+    "company": "Capacit'e Infraprojects Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/CAPACITE_31082023180335_SEIntimationBRSR2223.pdf"
+  },
+  {
+    "sno": 309,
+    "company": "Hemisphere Properties India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/HEMIPROP_31082023180000_AR202223stex.pdf"
+  },
+  {
+    "sno": 310,
+    "company": "BCL INDUSTRIES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/BCLIND_31082023175622_BRSR_STX.pdf"
+  },
+  {
+    "sno": 311,
+    "company": "Allcargo Logistics Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ALLCARGO_31082023174958_BRSRReporting.pdf"
+  },
+  {
+    "sno": 312,
+    "company": "Sun TV Network Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SUNTV1_31082023171959_SunTVBRSR2023Stx.pdf"
+  },
+  {
+    "sno": 313,
+    "company": "MAHANAGAR TELEPHONE NIGAM LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MTNL_31082023170227_SD_BRSRREPORTFORTHEFY2022_23.pdf"
+  },
+  {
+    "sno": 314,
+    "company": "PVR INOX LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PVR_31082023170553_PVRINOXBRSRFY20222331082023.pdf"
+  },
+  {
+    "sno": 315,
+    "company": "SHANKARA BUILDING PRODUCTS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SHANKARA_31082023152040_FilingBRR.pdf"
+  },
+  {
+    "sno": 316,
+    "company": "UFLEX LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/DineshSharma_31082023151313_UFLEXBRSR31082023XBRL.pdf"
+  },
+  {
+    "sno": 317,
+    "company": "BF UTILITIES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/BFUTILITIE_31082023150613_BRSR_BFUL_31082023.pdf"
+  },
+  {
+    "sno": 318,
+    "company": "BF INVESTMENT LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/BFINVEST_31082023141947_BRSR_BFIL_31082023.pdf"
+  },
+  {
+    "sno": 319,
+    "company": "Faze Three Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/FAZETHREE_31082023132206_FTLsubmissionofBRSRreport30082023signed.pdf"
+  },
+  {
+    "sno": 320,
+    "company": "Welspun Corp Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/WELCORP_31082023124151_Disclosure30082023.pdf"
+  },
+  {
+    "sno": 321,
+    "company": "KINGFA SCIENCE & TECHNOLOGY (INDIA) LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/KINGFA_31082023114807_BRSR_FY_2022_23.pdf"
+  },
+  {
+    "sno": 322,
+    "company": "ROLEX RINGS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ROLEXRINGS_30082023225850_BRSR.pdf"
+  },
+  {
+    "sno": 323,
+    "company": "DCX Systems Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/DCX_2022_30082023213615_DCX_BRSR.pdf"
+  },
+  {
+    "sno": 324,
+    "company": "THE PHOENIX MILLS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PHOENIXLTD1_30082023212549_ThePhoenixMillsLimited_BRSR_30082023_.pdf"
+  },
+  {
+    "sno": 325,
+    "company": "KEYSTONE REALTORS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/RUSTOMJEE_30082023203253_BRSR_FY23.pdf"
+  },
+  {
+    "sno": 326,
+    "company": "APTECH LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/APTECHT_30082023191452_BRSRExtract.pdf"
+  },
+  {
+    "sno": 327,
+    "company": "Caplin Point Laboratories Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/CAPLINPOINT_30082023185947_CPLBRSR.pdf"
+  },
+  {
+    "sno": 328,
+    "company": "HARIOM PIPE INDUSTRIES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/hariompipes_30082023185815_BusinessResponsibilityandSustainabilityReport.pdf"
+  },
+  {
+    "sno": 329,
+    "company": "Ganesha Ecosphere Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GANECOS_30082023172625_brsr_signed.pdf"
+  },
+  {
+    "sno": 330,
+    "company": "EVEREADY INDUSTRIES INDIA LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/EVEREADY_30082023163532_AnnualReport2223.pdf"
+  },
+  {
+    "sno": 331,
+    "company": "SEPC Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SHRIRAMEPC_30082023163507_BRSR.pdf"
+  },
+  {
+    "sno": 332,
+    "company": "Fortis Healthcare Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/FORTIS_30082023160540_BRSRNSE300823.pdf"
+  },
+  {
+    "sno": 333,
+    "company": "Alok Industries Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/mihirpatel_30082023155204_20230829_Alok_BRSR_2023.pdf"
+  },
+  {
+    "sno": 334,
+    "company": "Speciality Restaurants Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SPECIALITY_30082023155447_BSENSELetterDated30082023BRSRReport.pdf"
+  },
+  {
+    "sno": 335,
+    "company": "Gokaldas Exports Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GOKEX_30082023133303_brsr.pdf"
+  },
+  {
+    "sno": 336,
+    "company": "Apollo Pipes Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/APOLLOPIPE_30082023111735_STX.pdf"
+  },
+  {
+    "sno": 337,
+    "company": "Nahar Poly Films Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/NAHARPOLY_30082023104419_BRSR.pdf"
+  },
+  {
+    "sno": 338,
+    "company": "GRAPHITE INDIA LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GILKOLKATA_30082023101859_GIL_BRSR_2022_23.pdf"
+  },
+  {
+    "sno": 339,
+    "company": "Titan Company Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/TITAN_30082023092731_BusinessResponsibilityandSustainabilityReporting.pdf"
+  },
+  {
+    "sno": 340,
+    "company": "Krishana Phoschem Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/KRISHANA_29082023223227_KPL.pdf"
+  },
+  {
+    "sno": 341,
+    "company": "Vijaya Diagnostic Centre Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/VIJAYA_29082023210917_VDCLBRSR2023.pdf"
+  },
+  {
+    "sno": 342,
+    "company": "Madhya Bharat Agro Products Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MBAPL_29082023205513_MBAPL.pdf"
+  },
+  {
+    "sno": 343,
+    "company": "Prestige Estates Projects Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PRESTIGE_29082023200345_BRSR.pdf"
+  },
+  {
+    "sno": 344,
+    "company": "Alembic Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ALEMBICLTD_29082023193610_AL_Submission_of_BRSR_31032023_Signed.pdf"
+  },
+  {
+    "sno": 345,
+    "company": "Star Health and Allied Insurance Company Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/STARHEALTH_29082023183758_finalbrsr.pdf"
+  },
+  {
+    "sno": 346,
+    "company": "SHYAM METALICS AND ENERGY LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SHYAMMETL_29082023180519_SMELBRSR29082023.pdf"
+  },
+  {
+    "sno": 347,
+    "company": "Optiemus Infracom Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/OPTIEMUS_29082023173935_OILBRSR202329082023.pdf"
+  },
+  {
+    "sno": 348,
+    "company": "KIOCL Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/KIOCL_29082023152755_BRSR.pdf"
+  },
+  {
+    "sno": 349,
+    "company": "63 moons technologies limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/63MOONS_29082023141548_BRSR202223.pdf"
+  },
+  {
+    "sno": 350,
+    "company": "Alicon Castalloy Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ALICON_29082023133137_BRSR.pdf"
+  },
+  {
+    "sno": 351,
+    "company": "Gujarat State Fertilizers & Chemicals Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GSFC_29082023131934_GSFCBRSR202223.pdf"
+  },
+  {
+    "sno": 352,
+    "company": "Affle (India) Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/AFFLE_29082023121508_BRSR_Affle_29082023.pdf"
+  },
+  {
+    "sno": 353,
+    "company": "GLOBAL HEALTH LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MEDANTA21_29082023103914_GHLBRSRREPORTFY20222325AUG2023SIGNED.pdf"
+  },
+  {
+    "sno": 354,
+    "company": "ROUTE MOBILE LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ROUTE_28082023230103_BRSR.pdf"
+  },
+  {
+    "sno": 355,
+    "company": "Sandhar Technologies Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SANDHAR_28082023221011_STL_BRSR_2022_23_Signed.pdf"
+  },
+  {
+    "sno": 356,
+    "company": "Sirca Paints India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SIRCA_28082023213405_INTIMATION.pdf"
+  },
+  {
+    "sno": 357,
+    "company": "VADILAL INDUSTRIES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/VADILALIND_28082023200421_SEBRSR23.pdf"
+  },
+  {
+    "sno": 358,
+    "company": "GOCL Corporation Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GULFCORP_28082023200425_BRSR2023.pdf"
+  },
+  {
+    "sno": 359,
+    "company": "Mankind Pharma Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MANKIND_28082023184736_20230828_SE_BRSR_SD1.pdf"
+  },
+  {
+    "sno": 360,
+    "company": "Page Industries Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PAGEIND_28082023184507_BRSR31032023.pdf"
+  },
+  {
+    "sno": 361,
+    "company": "MOIL Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MOIL_28082023183644_BRSR.pdf"
+  },
+  {
+    "sno": 362,
+    "company": "InterGlobe Aviation Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/Indigo1_28082023173816_BRSR_Final_signed_FY2022_23.pdf"
+  },
+  {
+    "sno": 363,
+    "company": "Anjani Portland Cement Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/APCL_28082023170558_BRSR.pdf"
+  },
+  {
+    "sno": 364,
+    "company": "Capri Global Capital Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/CGCL_28082023170355_Stock_Exchange_covering_letter_Signed.pdf"
+  },
+  {
+    "sno": 365,
+    "company": "TVS Srichakra Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/TVSSRICHAK_28082023165207_TSLBRSR202223.pdf"
+  },
+  {
+    "sno": 366,
+    "company": "SUMITOMO CHEMICAL INDIA LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SUMICHEM_28082023153552_BRSR_22_23_AR.pdf"
+  },
+  {
+    "sno": 367,
+    "company": "Gujarat Narmada Valley Fertilizers and Chemicals Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/rajeshpillai8741_28082023154315_SE_BRSR_22_23_F_Signed_MR.pdf"
+  },
+  {
+    "sno": 368,
+    "company": "Tejas Networks Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/TEJASNET_28082023151808_pdf.pdf"
+  },
+  {
+    "sno": 369,
+    "company": "NTPC LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ntpcmanish_28082023143832_BRSR202223.pdf"
+  },
+  {
+    "sno": 370,
+    "company": "IndoStar Capital Finance Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/INDOSTAR_28082023141426_AnnualReport2023.pdf"
+  },
+  {
+    "sno": 371,
+    "company": "TRIVENI ENGINEERING & INDUSTRIES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/TRIVENI_28082023114837_TEIL_BRSR.pdf"
+  },
+  {
+    "sno": 372,
+    "company": "Nahar Capital and Financial Services Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/NAHARCAP_28082023102645_BRSR2023.pdf"
+  },
+  {
+    "sno": 373,
+    "company": "Landmark Cars Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/LANDMARK_27082023215420_LCL_BRSR_2022_23.pdf"
+  },
+  {
+    "sno": 374,
+    "company": "Asahi India Glass Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ASAHIINDIA_27082023182612_MR.pdf"
+  },
+  {
+    "sno": 375,
+    "company": "THE INDIA CEMENTS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/INDIACEM_27082023172131_ICLBRSRSE26082023.pdf"
+  },
+  {
+    "sno": 376,
+    "company": "GMR POWER AND URBAN INFRA LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GPUIL_26082023202038_BRSRfinal.pdf"
+  },
+  {
+    "sno": 377,
+    "company": "Manorama Industries Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MANORAMA_26082023193625_BRSR2023.pdf"
+  },
+  {
+    "sno": 378,
+    "company": "GMR Airports Infrastructure Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GMRINFRA_26082023190910_BRSR.pdf"
+  },
+  {
+    "sno": 379,
+    "company": "Healthcare Global Enterprises Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/HCG1_26082023183712_BRSR2023.pdf"
+  },
+  {
+    "sno": 380,
+    "company": "Garware Technical Fibres Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GARFIBRES_26082023181054_BRSRSEUploadFinal26082023.pdf"
+  },
+  {
+    "sno": 381,
+    "company": "Sterling Tools Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/STERTOOLS_26082023180304_STLIntimationBRSR202223.pdf"
+  },
+  {
+    "sno": 382,
+    "company": "NAHAR SPINNING MILLS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/NAHARSPING_26082023171856_BRSR.pdf"
+  },
+  {
+    "sno": 383,
+    "company": "Tatva Chintan Pharma Chem Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/TATVA_26082023164645_BR.pdf"
+  },
+  {
+    "sno": 384,
+    "company": "HESTER BIOSCIENCES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/HESTERBIO_26082023163731_20230331BusinessResponsibilityandSustainabilityReportFY23_.pdf"
+  },
+  {
+    "sno": 385,
+    "company": "Divgi TorqTransfer Systems Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/DIVGITTS_26082023120134_DTTS_BRSRSubmission_2023.pdf"
+  },
+  {
+    "sno": 386,
+    "company": "ADANI POWER LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ADANIPOWER_26082023114046_APLBRSR2023.pdf"
+  },
+  {
+    "sno": 387,
+    "company": "Five-star Business Finance Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/FIVESTAR_25082023214635_BRSR.pdf"
+  },
+  {
+    "sno": 388,
+    "company": "Jay Bharat Maruti Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/JAYBARMARUT_09102023180712_RevisedBRSR.pdf"
+  },
+  {
+    "sno": 389,
+    "company": "Paisalo Digital Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PAISALO_25082023195622_NSE_BSE_BRSR_25082023.pdf"
+  },
+  {
+    "sno": 390,
+    "company": "RAMKY INFRASTRUCTURE LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/RAMKY_25082023195808_BRSReport.pdf"
+  },
+  {
+    "sno": 391,
+    "company": "Jupiter Wagons Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/CEBBCO_25082023193646_SELETTERBRSRREPORT2023.pdf"
+  },
+  {
+    "sno": 392,
+    "company": "PRINCE PIPES AND FITTINGS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PRINCEPIPE_25082023185715_BRSR2023.pdf"
+  },
+  {
+    "sno": 393,
+    "company": "MSTC LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MSTCLTD_25082023185201_SE462.pdf"
+  },
+  {
+    "sno": 394,
+    "company": "JBM Auto Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/JBMA_25082023185153_brsrtostockexchangeSIGNED.pdf"
+  },
+  {
+    "sno": 395,
+    "company": "Greenply Industries Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GREEN_25082023182138_BRSR_GIL.pdf"
+  },
+  {
+    "sno": 396,
+    "company": "SKIPPER LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/skipper_25082023182154_SKIPPERBRSR.pdf"
+  },
+  {
+    "sno": 397,
+    "company": "NITIN SPINNERS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/NITINSPIN_25082023171413_brsr.pdf"
+  },
+  {
+    "sno": 398,
+    "company": "Dilip Buildcon Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/DBL_25082023163234_IntimationBRSRds.pdf"
+  },
+  {
+    "sno": 399,
+    "company": "CMS Info Systems Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/CMSINFO_25082023160123_SubmissionofBRSR.pdf"
+  },
+  {
+    "sno": 400,
+    "company": "Pearl Global Industries Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PGIL_25082023155023_BRSR.pdf"
+  },
+  {
+    "sno": 401,
+    "company": "Share India Securities Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SISL_25082023151319_Reg34BRSRSIGNED.pdf"
+  },
+  {
+    "sno": 402,
+    "company": "PPAP Automotive Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PPAP_24082023211505_AnnualReport.pdf"
+  },
+  {
+    "sno": 403,
+    "company": "AIA ENGINEERING LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/AIAENG_24082023201253_SubmissionofBRSR202223AIA.pdf"
+  },
+  {
+    "sno": 404,
+    "company": "FSN E Commerce Ventures Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/NYKAA_24082023200912_SEIntimationBRSRFY23.pdf"
+  },
+  {
+    "sno": 405,
+    "company": "Ambuja Cements Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/AMBUJACEM_24082023200542_AmbujaBRSR.pdf"
+  },
+  {
+    "sno": 406,
+    "company": "ACC LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ACC_1_24082023192839_ACCSignedBRSR.pdf"
+  },
+  {
+    "sno": 407,
+    "company": "Zen Technologies Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ZENTEC_24082023183528_BRSR.pdf"
+  },
+  {
+    "sno": 408,
+    "company": "Strides Pharma Science Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/STAR_24082023181951_StridesBRSRFY23.pdf"
+  },
+  {
+    "sno": 409,
+    "company": "RESPONSIVE INDUSTRIES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/RESPONIND_24082023172948_BRSRFY23.pdf"
+  },
+  {
+    "sno": 410,
+    "company": "GUJARAT INDUSTRIES POWER COMPANY LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/Gipcl7868_24082023172716_SE_BRSR_2023_24082023.pdf"
+  },
+  {
+    "sno": 411,
+    "company": "Dhunseri Ventures Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/DVL_24082023172112_brsr.pdf"
+  },
+  {
+    "sno": 412,
+    "company": "Borosil Renewables Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/BORORENEW_24082023163347_BRSRIntimation.pdf"
+  },
+  {
+    "sno": 413,
+    "company": "GIC Housing Finance Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GICHSGFIN_24082023162717_NSE.pdf"
+  },
+  {
+    "sno": 414,
+    "company": "Uttam Sugar Mills Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/UTTAMSUGAR_24082023161635_BRSRSigned.pdf"
+  },
+  {
+    "sno": 415,
+    "company": "Sasken Technologies Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SASKEN_24082023161454_BRSR_SASKEN_2023.pdf"
+  },
+  {
+    "sno": 416,
+    "company": "Uno Minda Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MINDAIND1_24082023160237_scan_uno_minda_BRSR_report_FY_2022_23.pdf"
+  },
+  {
+    "sno": 417,
+    "company": "ITD Cementation India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ITD_24082023154319_stock_exchange_inti_BRSR.pdf"
+  },
+  {
+    "sno": 418,
+    "company": "APOLLO HOSPITALS ENTERPRISE LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/APOLLOHOSP_24082023153154_BRSR_2023_SE.pdf"
+  },
+  {
+    "sno": 419,
+    "company": "Bhansali Engineering Polymers Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/BEPL_24082023153820_BRSR.pdf"
+  },
+  {
+    "sno": 420,
+    "company": "BANCO PRODUCTS (I) LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/BANCOINDIA_24082023140625_BRSR_FINAL_BSENSE.pdf"
+  },
+  {
+    "sno": 421,
+    "company": "SOLARA ACTIVE PHARMA SCIENCES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SOLARA_24082023132654_BRSR_2022_23.pdf"
+  },
+  {
+    "sno": 422,
+    "company": "NDL Ventures Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/HINDUJAVEN_24082023110805_BRSR.pdf"
+  },
+  {
+    "sno": 423,
+    "company": "SURYODAY SMALL FINANCE BANK LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SURYODAY_23082023233946_SSFB_SubmissionofBRSRforFY202223_sd.pdf"
+  },
+  {
+    "sno": 424,
+    "company": "Just Dial Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/chintan_23082023225037_CoveringLetterBRSR.pdf"
+  },
+  {
+    "sno": 425,
+    "company": "Kaynes Technology India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/KAYNESTECH_23082023221503_BRSR_23082023_Signed.pdf"
+  },
+  {
+    "sno": 426,
+    "company": "VALIANT ORGANICS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/VALIANTORG_23082023214533_VOLBRSR2023.pdf"
+  },
+  {
+    "sno": 427,
+    "company": "eClerx Services Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ECLERX_23082023211439_BSENSEBRSRFY23.pdf"
+  },
+  {
+    "sno": 428,
+    "company": "Indian Railway Finance Corporation Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/IRFC_23082023190707_BRSR202223.pdf"
+  },
+  {
+    "sno": 429,
+    "company": "Polyplex Corporation Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/POLYPLEX_23082023184758_PCL_BRSR_2022_23_Signed.pdf"
+  },
+  {
+    "sno": 430,
+    "company": "RateGain Travel Technologies Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/RATEGAIN_23082023184905_RG_BRSR_230823.pdf"
+  },
+  {
+    "sno": 431,
+    "company": "Oil & Natural Gas Corporation Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ONGC_23082023180511_BRSR2023.pdf"
+  },
+  {
+    "sno": 432,
+    "company": "Agarwal Industrial Corporation Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/AGARIND_23082023172634_AnnualReportwithBRSR.pdf"
+  },
+  {
+    "sno": 433,
+    "company": "InfoBeans Techno. Ltd.",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/INFOBEAN_23082023162607_Infobeans_BRSR.pdf"
+  },
+  {
+    "sno": 434,
+    "company": "Ramkrishna Forgings Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/RKFORGE_23082023163559_BRSRFY202223.pdf"
+  },
+  {
+    "sno": 435,
+    "company": "TRIVENI TURBINE LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/TRITURBINE_23082023151230_TTL_BRSR_16_8_23.pdf"
+  },
+  {
+    "sno": 436,
+    "company": "Hindustan Petroleum Corporation Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/HINDPETRO1_23082023113931_HPCLBRSR202223.pdf"
+  },
+  {
+    "sno": 437,
+    "company": "Varroc Engineering Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/VARROC_24082023144007_AGM_Notice_Annual_Report_FY2023_Varroc_Engineering_Limited.pdf"
+  },
+  {
+    "sno": 438,
+    "company": "Excel Industries Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/EXCELINDUS_22082023232037_BusinessResposibilityandSustainabilityReport20222023.pdf"
+  },
+  {
+    "sno": 439,
+    "company": "Gujarat State Petronet Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GSPL_22082023230525_GSPLBRSRREPORT20222023.pdf"
+  },
+  {
+    "sno": 440,
+    "company": "RSWM Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/RSWM_22082023223411_RSWMBRSR202223.pdf"
+  },
+  {
+    "sno": 441,
+    "company": "Repco Home Finance Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/REPCOHOME_22082023215811_BRSR.pdf"
+  },
+  {
+    "sno": 442,
+    "company": "Johnson Controls - Hitachi Air Conditioning India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/JCHAC_22082023213917_20230822BRSRReport.pdf"
+  },
+  {
+    "sno": 443,
+    "company": "SANGHI INDUSTRIES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SANGHIIND_22082023204032_SIL_BRSR.pdf"
+  },
+  {
+    "sno": 444,
+    "company": "SML ISUZU LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SMLISUZU_22082023182451_57lettertoseBRSR22082023.pdf"
+  },
+  {
+    "sno": 445,
+    "company": "Mangalore Refinery and Petrochemicals Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MRPL_22082023173800_BRSR2023.pdf"
+  },
+  {
+    "sno": 446,
+    "company": "Aarti Pharmalabs Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/AARTIPHARMA_22082023174229_AARTIPHARMA.pdf"
+  },
+  {
+    "sno": 447,
+    "company": "Life Insurance Corporation of India",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/LIC_BOARD_22082023172744_Business_Responsibility_and_Sustainability_Report_2022_23.pdf"
+  },
+  {
+    "sno": 448,
+    "company": "Engineers India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_22082023171020_EILBRSRFY202223.pdf"
+  },
+  {
+    "sno": 449,
+    "company": "SCHNEIDER ELECTRIC INFRASTRUCTURE LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SCHNEIDER_22082023164850_IntimationBRSR.pdf"
+  },
+  {
+    "sno": 450,
+    "company": "INGERSOLL RAND (INDIA) LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/INGERRAND1_22082023163311_BRSR31032023.pdf"
+  },
+  {
+    "sno": 451,
+    "company": "Chambal Fertilizers & Chemicals Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/CHAMBLFERT_22082023130310_BusinessResponsibilityandSustainabilityReport202223S.pdf"
+  },
+  {
+    "sno": 452,
+    "company": "One 97 Communications Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PAYTM_22082023101947_SELetter_BRSR.pdf"
+  },
+  {
+    "sno": 453,
+    "company": "Power Finance Corporation Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PFC2023_21082023220612_BinderARINTIMATIONSIGNED.pdf"
+  },
+  {
+    "sno": 454,
+    "company": "Fineotex Chemical Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/FCL_21082023191502_IntimationBRSR.pdf"
+  },
+  {
+    "sno": 455,
+    "company": "SURYA ROSHNI LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SURYAROSNI_21082023185632_BRSR_202223_signed.pdf"
+  },
+  {
+    "sno": 456,
+    "company": "Uniparts India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/Earth_2018_21082023182803_JMBRSR.pdf"
+  },
+  {
+    "sno": 457,
+    "company": "Metro Brands Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/METROBRAND_21082023170619_MBL_BRSR_2022_23.pdf"
+  },
+  {
+    "sno": 458,
+    "company": "Godawari Power and Ispat Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GPIL_21082023164646_GPILNSEBSEBRSR202223.pdf"
+  },
+  {
+    "sno": 459,
+    "company": "Mayur Uniquoters Ltd",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MAYURUNIQ_21082023162110_Letter.pdf"
+  },
+  {
+    "sno": 460,
+    "company": "Hindustan Foods Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/HNDFDS_21082023140115_BRSR.pdf"
+  },
+  {
+    "sno": 461,
+    "company": "Sportking India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SPORTKING_21082023121218_busienss.pdf"
+  },
+  {
+    "sno": 462,
+    "company": "RADIANT CASH MANAGEMENT SERVICES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/RADIANTCASH_20082023203735_BRSRReport.pdf"
+  },
+  {
+    "sno": 463,
+    "company": "PTC India Financial Services Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PFS_20082023105708_pfsBRSR.pdf"
+  },
+  {
+    "sno": 464,
+    "company": "Arvind Fashions Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ARVINDFASN_19082023203436_Submission_of_BRSR.pdf"
+  },
+  {
+    "sno": 465,
+    "company": "DMCC SPECIALITY CHEMICALS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/DHARAMSI_19082023165703_DMCC_BRSR_2022_23_SD.pdf"
+  },
+  {
+    "sno": 466,
+    "company": "Bhageria Industries Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/BHAGERIA_19082023002700_BRSR.pdf"
+  },
+  {
+    "sno": 467,
+    "company": "Shipping Corporation of India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SCI1_18082023234409_SeBRSRsigned.pdf"
+  },
+  {
+    "sno": 468,
+    "company": "TATA METALIKS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/TATAMETALI1_18082023233740_NSEbrsrpdf.pdf"
+  },
+  {
+    "sno": 469,
+    "company": "3M INDIA LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/3MINDIALTD_18082023210607_BRSRFINALPDF.pdf"
+  },
+  {
+    "sno": 470,
+    "company": "RITES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/RITES_18082023203254__BRSR_FINAL.pdf"
+  },
+  {
+    "sno": 471,
+    "company": "EMAMI PAPER MILLS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GAICH_18082023192437_EMAMIPAP_18082023170818_brsr_22_23.pdf"
+  },
+  {
+    "sno": 472,
+    "company": "India Glycols Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/INDIAGLYCO_18082023191934_BRSR202223.pdf"
+  },
+  {
+    "sno": 473,
+    "company": "Vinati Organics Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/VINATIORGA_18082023190330_BRSR.pdf"
+  },
+  {
+    "sno": 474,
+    "company": "TCNS CLOTHING CO. LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/TCNSBRANDS_18082023183626_TCNSBRANDS_BRSR_26AGM_18082023.pdf"
+  },
+  {
+    "sno": 475,
+    "company": "Electrosteel Castings Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ELECTCAST_18082023182745_FillingBRSR202223.pdf"
+  },
+  {
+    "sno": 476,
+    "company": "Zomato Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ZOMATO_18082023180743_ZomatoBRSRCoveringSigned.pdf"
+  },
+  {
+    "sno": 477,
+    "company": "POKARNA LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/POKARNA_18082023174326_pokarnaBRSR.pdf"
+  },
+  {
+    "sno": 478,
+    "company": "Alembic Pharmaceuticals Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/APLLTD_18082023164431_APL_Intimation_BRSR_Report18082023.pdf"
+  },
+  {
+    "sno": 479,
+    "company": "Sigachi Industries Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SIGACHI_18082023165743_BRSR.pdf"
+  },
+  {
+    "sno": 480,
+    "company": "TANLA PLATFORMS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/TANLA_18082023165207_SE_BRSR_final.pdf"
+  },
+  {
+    "sno": 481,
+    "company": "PSP Projects Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PSPPROJECT_18082023160542_BRSR.pdf"
+  },
+  {
+    "sno": 482,
+    "company": "Gravita India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GRAVITA_18082023142052_GravitaBRSRfinal.pdf"
+  },
+  {
+    "sno": 483,
+    "company": "BHARAT RASAYAN LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/BHARATRAS_18082023141453_BRSR_31_03_2023_BHARATRAS.pdf"
+  },
+  {
+    "sno": 484,
+    "company": "JAI CORP LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/JAICORPLTD_18082023140651_JCLBRSR2023.pdf"
+  },
+  {
+    "sno": 485,
+    "company": "Westlife Foodworld Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/VedaWestlife_18082023121333_BRSR2023.pdf"
+  },
+  {
+    "sno": 486,
+    "company": "Neogen Chemicals Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/NEOGEN_17082023214757_BRSRreport.pdf"
+  },
+  {
+    "sno": 487,
+    "company": "Kirloskar Pneumatic Company Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/truneshgujar_17082023212750_BRSR.pdf"
+  },
+  {
+    "sno": 488,
+    "company": "Syrma SGS Technology Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SYRMASGS_17082023201436_BRSR_Syrma__Signed_1.pdf"
+  },
+  {
+    "sno": 489,
+    "company": "KAJARIA CERAMICS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/KAJARIACER_17082023190717_BRSR_Disclosure.pdf"
+  },
+  {
+    "sno": 490,
+    "company": "Bharat Wire Ropes Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/BHARATWIRE_17082023183954_Intimation_BRSR.pdf"
+  },
+  {
+    "sno": 491,
+    "company": "Patel Engineering Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PATELENG_17082023183844_SubmissionofBRSR202223.pdf"
+  },
+  {
+    "sno": 492,
+    "company": "DR. LAL PATH LABS LTD.",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/LALPATHLAB_17082023183105_FinalBRSR.pdf"
+  },
+  {
+    "sno": 493,
+    "company": "TEAMLEASE SERVICES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/TEAMLEASE_17082023183120_BRSR.pdf"
+  },
+  {
+    "sno": 494,
+    "company": "V-MART RETAIL LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/VMART_17082023182555_BRSRFY23.pdf"
+  },
+  {
+    "sno": 495,
+    "company": "D.B.Corp Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/DBCORP_17082023180526_SE_Intimation_BRSR.pdf"
+  },
+  {
+    "sno": 496,
+    "company": "REC Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/RECLTD_17082023180513_BusinessResponsibiltyandSustainabilityReport.pdf"
+  },
+  {
+    "sno": 497,
+    "company": "The Tinplate Company of India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/TINPLATE_17082023163728_TCIL_BRSR_FY_2022_23_Stk_S.pdf"
+  },
+  {
+    "sno": 498,
+    "company": "Ircon International Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/IRCON_17082023162816_BRSR17082023.pdf"
+  },
+  {
+    "sno": 499,
+    "company": "LAURUS LABS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/LAURUSLABS2005_17082023154458_BRSRFY202223.pdf"
+  },
+  {
+    "sno": 500,
+    "company": "Dalmia Bharat Sugar and Industries Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/DALMIACEM_17082023153205_DBSILAnnualReport2023.pdf"
+  },
+  {
+    "sno": 501,
+    "company": "Oil India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/OIL_17082023150507_REG34BRSRFILING17082023.pdf"
+  },
+  {
+    "sno": 502,
+    "company": "APL Apollo Tubes Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/APLAPOLLO_17082023150032_BRSEFINAL.pdf"
+  },
+  {
+    "sno": 503,
+    "company": "CESC Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/CESC_17082023131113_BRSRCESCLimitedAnnualReport.pdf"
+  },
+  {
+    "sno": 504,
+    "company": "Shreyas Shipping & Logistics Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/TRANSWORLD_16082023223716_Intimation.pdf"
+  },
+  {
+    "sno": 505,
+    "company": "BHARAT BIJLEE LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/BBL_16082023211444_BBLBRSR20222023.pdf"
+  },
+  {
+    "sno": 506,
+    "company": "KANORIA CHEMICALS & INDUSTRIES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/KANORICHEM_16082023200758_BRSR.pdf"
+  },
+  {
+    "sno": 507,
+    "company": "TV18 Broadcast Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/TV18BRDCST_16082023185352_TV18BRSR202223.pdf"
+  },
+  {
+    "sno": 508,
+    "company": "Universal Cables Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/UNIVCABLES_16082023181614_BRSR_2022_23.pdf"
+  },
+  {
+    "sno": 509,
+    "company": "ION EXCHANGE (INDIA) LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/IONEXCHANGE_16082023171156_COVREING_LETTER_BRSR.pdf"
+  },
+  {
+    "sno": 510,
+    "company": "DHAMPUR SUGAR MILLS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/DHAMPURSUG_16082023170213_BRSRREPORT.pdf"
+  },
+  {
+    "sno": 511,
+    "company": "Vindhya Telelinks Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/VINDHYATEL_16082023151543_SubmissionBRSRReport202223.pdf"
+  },
+  {
+    "sno": 512,
+    "company": "RPSG Ventures Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/RPSGVENT_16082023135827_1.pdf"
+  },
+  {
+    "sno": 513,
+    "company": "TV Today Network Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/TVTODAY_16082023113436_STXINTIMATIONBRSR14082023.pdf"
+  },
+  {
+    "sno": 514,
+    "company": "ZF Commercial Vehicle Control Systems India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/WABCOINDIA_16082023113822_BRSR.pdf"
+  },
+  {
+    "sno": 515,
+    "company": "Dreamfolks Services Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/DREAMFOLKS24_16082023105218_BRSRFinal.pdf"
+  },
+  {
+    "sno": 516,
+    "company": "Sansera Engineering Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SANSERA_16082023094834_BRSRSANSERA.pdf"
+  },
+  {
+    "sno": 517,
+    "company": "Network18 Media & Investments Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/Shambhu_14082023230727_NW18_BRSR_2022_23.pdf"
+  },
+  {
+    "sno": 518,
+    "company": "NMDC Steel Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/NMDCSTEEL_14082023224559_NSL_BRSR_2023.pdf"
+  },
+  {
+    "sno": 519,
+    "company": "Go Fashion (India) Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GOCOLORS_14082023193949_BRSR2223upload.pdf"
+  },
+  {
+    "sno": 520,
+    "company": "India Pesticides Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/IPL_14082023184911_IPLBRSR2223signed.pdf"
+  },
+  {
+    "sno": 521,
+    "company": "Action Construction Equipment Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ACE_14082023181632_BUSINESS_RESPONSIBILITY_AND_SUSTAINABILITY_REPORT_2023_ACE.pdf"
+  },
+  {
+    "sno": 522,
+    "company": "NCC Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/NCC_14082023164206_BRSR2.pdf"
+  },
+  {
+    "sno": 523,
+    "company": "SKF INDIA LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SKFINDIA23_14082023150437_NSE.pdf"
+  },
+  {
+    "sno": 524,
+    "company": "Ajanta Pharma Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/AJANTPHARM_14082023144553_BusinessResponsibilityandSustainabilityReportFY2023.pdf"
+  },
+  {
+    "sno": 525,
+    "company": "Reliance Industries Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/kavinavora_14082023134408_BRSR_pdf.pdf"
+  },
+  {
+    "sno": 526,
+    "company": "Ganesh Housing Corporation Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GANESHHOUC_14082023114523_BRSRFINAL14082023.pdf"
+  },
+  {
+    "sno": 527,
+    "company": "TAMILNAD MERCANTILE BANK LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/9659523378_12082023155305_Annual_Report_2022_23.pdf"
+  },
+  {
+    "sno": 528,
+    "company": "Precision Wires India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PRECWIRE_12082023150111_BRSR31032023.pdf"
+  },
+  {
+    "sno": 529,
+    "company": "Gati Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GATI_12082023005309_IntimationBRSRFY2023Signed.pdf"
+  },
+  {
+    "sno": 530,
+    "company": "Gujarat Ambuja Exports Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GAEL_11082023225152_BRSR_1.pdf"
+  },
+  {
+    "sno": 531,
+    "company": "Kotak Mahindra Bank Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/KOTAKBANK1_11082023220547_BRSR2023.pdf"
+  },
+  {
+    "sno": 532,
+    "company": "PNB Gilts Ltd.",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PNBGILTSYS_11082023211103_BRSR_PDF_22_23.pdf"
+  },
+  {
+    "sno": 533,
+    "company": "Birla Corporation Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/birlacorpnkb_11082023200532_BRSR_intimation_11_08_2023.pdf"
+  },
+  {
+    "sno": 534,
+    "company": "STOVE KRAFT LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/STOVEKRAFT_11082023175650_BRSRFY202223SIGNED.pdf"
+  },
+  {
+    "sno": 535,
+    "company": "Vakrangee Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/VAKRANGEE_11082023175248_BRSRFY202223.pdf"
+  },
+  {
+    "sno": 536,
+    "company": "GHCL Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GHCL_11082023155527_GHCL_Intimation_BRSR_Report_2023.pdf"
+  },
+  {
+    "sno": 537,
+    "company": "COAL INDIA LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/COALINDIA_11082023153330_BRSR23.pdf"
+  },
+  {
+    "sno": 538,
+    "company": "Aurobindo Pharma Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/AUROPHARMA_11082023152529_AurobindoPharmaBRSR010823.pdf"
+  },
+  {
+    "sno": 539,
+    "company": "DIVI'S LABORATORIES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/DIVISLAB_11082023100628_Submission_BRSR2022_23_Divis.pdf"
+  },
+  {
+    "sno": 540,
+    "company": "V.S.T TILLERS TRACTORS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/VSTTILLERS_11082023002559_f.pdf"
+  },
+  {
+    "sno": 541,
+    "company": "Whirlpool of India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/WHIRLPOOL_10082023224158_BRSR_2023.pdf"
+  },
+  {
+    "sno": 542,
+    "company": "DEEPAK FERTILIZERS AND PETROCHEMICALS CORPORATION LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/DEEPAKFERT2_10082023202427_BRSRSubmissionReg34.pdf"
+  },
+  {
+    "sno": 543,
+    "company": "Saregama India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SAREGAMA_10082023195203_SAREGAMA_09082023230116_BRSR2023signed.pdf"
+  },
+  {
+    "sno": 544,
+    "company": "Indus Towers Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/BHARTIINFRATEL_10082023193546_SEIntimationNoticeARIndus09082023.pdf"
+  },
+  {
+    "sno": 545,
+    "company": "Indian Energy Exchange Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/IEX_10082023190924_signed_IEX_Intimation_17BRSR_FY22_23.pdf"
+  },
+  {
+    "sno": 546,
+    "company": "Prataap Snacks Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/DIAMONDYD_10082023190820_IntimationofBRSR2023.pdf"
+  },
+  {
+    "sno": 547,
+    "company": "NMDC Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/NMDC_10082023190245_LtrBRSR2023.pdf"
+  },
+  {
+    "sno": 548,
+    "company": "C.E. INFO SYSTEMS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MAPMYINDIA_10082023185620_MMI_BRSR_FY2023.pdf"
+  },
+  {
+    "sno": 549,
+    "company": "KEI INDUSTRIES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/KEI_10082023182909_BusinessResponsibilityandSustainabilityReportFY2023.pdf"
+  },
+  {
+    "sno": 550,
+    "company": "Gulf Oil Lubricants India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GULFOILLUB_19082023120755_BRSR.pdf"
+  },
+  {
+    "sno": 551,
+    "company": "NHPC LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/NHPC_10082023181309_BRSR_202223.pdf"
+  },
+  {
+    "sno": 552,
+    "company": "Alkem Laboratories Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ALKEM_10082023174615_Reg34BRSR31032023pdf.pdf"
+  },
+  {
+    "sno": 553,
+    "company": "TEGA INDUSTRIES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/TEGA_10082023161123_Intimation_for_BRSR.pdf"
+  },
+  {
+    "sno": 554,
+    "company": "PILANI INVESTMENT AND INDUSTRIES CORPORATION LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PILANIINVS_10082023151442_Pilani_BRSR2023_10082023.pdf"
+  },
+  {
+    "sno": 555,
+    "company": "Bharat Electronics Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/BEL_10082023143058_NSESigned.pdf"
+  },
+  {
+    "sno": 556,
+    "company": "Mangalam Cement Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MANGLMCEM_10082023132132_MANGLMCEM_14072023210001_BRSR_MC.pdf"
+  },
+  {
+    "sno": 557,
+    "company": "Maruti Suzuki India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MARUTIASHISH_10082023125205_BRSR.pdf"
+  },
+  {
+    "sno": 558,
+    "company": "CreditAccess Grameen Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/CREDITACC_10082023124527_BRSRReport_01082023.pdf"
+  },
+  {
+    "sno": 559,
+    "company": "IDFC FIRST Bank Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/IDFCFIRSTB_10082023120402_SE_Intimation_BRSR.pdf"
+  },
+  {
+    "sno": 560,
+    "company": "Aster DM Healthcare Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ASTERDM2_09082023232851_TouploadBRSR.pdf"
+  },
+  {
+    "sno": 561,
+    "company": "HATSUN AGRO PRODUCT LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/HATSUN_09082023212438_BRSR31Mar23.pdf"
+  },
+  {
+    "sno": 562,
+    "company": "AGI Greenpac Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/HSIL_24082023145555_IntimationregardingrevisedBRSR.pdf"
+  },
+  {
+    "sno": 563,
+    "company": "IIFL SECURITIES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/IIFLSEC_09082023192148_IntimationBRSR.pdf"
+  },
+  {
+    "sno": 564,
+    "company": "MOTILAL OSWAL FINANCIAL SERVICES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MOTILALOFS_09082023184127_MOFSL_BRSR_2223.pdf"
+  },
+  {
+    "sno": 565,
+    "company": "Biocon Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/Bioconlimited_09082023183254_BRSR2023.pdf"
+  },
+  {
+    "sno": 566,
+    "company": "Power Grid Corporation of India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/POWERGRID1_09082023183332_BRSR.pdf"
+  },
+  {
+    "sno": 567,
+    "company": "Gland Pharma Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GLAND_09082023175948_BRSRFY_202223.pdf"
+  },
+  {
+    "sno": 568,
+    "company": "GODFREY PHILLIPS INDIA LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PANKAJCHAWLA_09082023172910_SubmissionofBRSRFY202223.pdf"
+  },
+  {
+    "sno": 569,
+    "company": "S.J.S. ENTERPRISES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SJS_09082023165239_BRSRFY23.pdf"
+  },
+  {
+    "sno": 570,
+    "company": "RailTel Corporation of India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/RAILTEL_09082023151819_BRSR202223.pdf"
+  },
+  {
+    "sno": 571,
+    "company": "MARKSANS PHARMA LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MARKSANS_09082023145153_SEIntimation.pdf"
+  },
+  {
+    "sno": 572,
+    "company": "MEDICAMEN BIOTECH LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MEDICAMEQ_09082023144131_brsr2023.pdf"
+  },
+  {
+    "sno": 573,
+    "company": "Shivalik Rasayan Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SHIVALIK_09082023143646_BRSR_2023.pdf"
+  },
+  {
+    "sno": 574,
+    "company": "BANNARI AMMAN SUGARS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/BANARISUG_08082023203604_BRSR2023SE.pdf"
+  },
+  {
+    "sno": 575,
+    "company": "JUBILANT PHARMOVA LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/JUBLPHARMA_08082023193520_BusinessResponsibilityandSustainabilityReport.pdf"
+  },
+  {
+    "sno": 576,
+    "company": "The Karnataka Bank Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/KTKBANK_08082023184931_arfinal.pdf"
+  },
+  {
+    "sno": 577,
+    "company": "JUBILANT INGREVIA LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/JUBLINGREA_08082023181206_BRSR.pdf"
+  },
+  {
+    "sno": 578,
+    "company": "Cigniti Technologies Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/CIGNITITEC_08082023155825_BRSR.pdf"
+  },
+  {
+    "sno": 579,
+    "company": "LIC Housing Finance Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/LICHSGFIN_07082023224059_BRSR_2023.pdf"
+  },
+  {
+    "sno": 580,
+    "company": "5paisa Capital Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/5PAISA_07082023191334_EXINTIMATION.pdf"
+  },
+  {
+    "sno": 581,
+    "company": "JK PAPER LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/JKPAPER_07082023191119_BRSR_2022_23.pdf"
+  },
+  {
+    "sno": 582,
+    "company": "Prudent Corporate Advisory Services Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PRUDENT9992_07082023172541_Letterwithbrsr.pdf"
+  },
+  {
+    "sno": 583,
+    "company": "Nandan Denim Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/NDL_07082023170512_brsrreport.pdf"
+  },
+  {
+    "sno": 584,
+    "company": "BSE Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/BSE_07082023160852_BRSR.pdf"
+  },
+  {
+    "sno": 585,
+    "company": "Jubilant FoodWorks Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/JUBLFOOD_07082023150318_brsrpdf.pdf"
+  },
+  {
+    "sno": 586,
+    "company": "RBL Bank Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/RBLBANK_07082023125042_BRSR.pdf"
+  },
+  {
+    "sno": 587,
+    "company": "JTL INDUSTRIES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/JTLIND_07082023111923_brsrjtl05082023.pdf"
+  },
+  {
+    "sno": 588,
+    "company": "Finolex Industries Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/FINPIPE1_06082023154347_BRSRFIL.pdf"
+  },
+  {
+    "sno": 589,
+    "company": "Maharashtra Seamless Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MAHSEAMLES_05082023213547_MSLBRSR.pdf"
+  },
+  {
+    "sno": 590,
+    "company": "SBI Life Insurance Company Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SBILIFE_04082023200307_BRSR04082023.pdf"
+  },
+  {
+    "sno": 591,
+    "company": "Choice International Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/CHOICE_04082023181521_Upload.pdf"
+  },
+  {
+    "sno": 592,
+    "company": "Indian Oil Corporation Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/IOC_04082023175432_IOC_BRSR_22_23_SE_S.pdf"
+  },
+  {
+    "sno": 593,
+    "company": "IFGL REFRACTORIES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/IFGLEXPOR_04082023154930_BRSRLetter.pdf"
+  },
+  {
+    "sno": 594,
+    "company": "Bombay Dyeing & Mfg Company Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/Savita_04082023154816_BDMC_BRSR_Report2022_23signed.pdf"
+  },
+  {
+    "sno": 595,
+    "company": "THIRUMALAI CHEMICALS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/TIRUMALCHM2_04082023145251_BRSR_2023.pdf"
+  },
+  {
+    "sno": 596,
+    "company": "CITY UNION BANK LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/CUB_04082023134837_BRSRFY231.pdf"
+  },
+  {
+    "sno": 597,
+    "company": "SAMVARDHANA MOTHERSON INTERNATIONAL LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MOTHERSON_04082023125356_BRSR.pdf"
+  },
+  {
+    "sno": 598,
+    "company": "Panama Petrochem Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PANAMAPET_04082023111303_brsrr.pdf"
+  },
+  {
+    "sno": 599,
+    "company": "Everest Industries Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/EVERESTINDUSTRIES_01082023153759_STX.pdf"
+  },
+  {
+    "sno": 600,
+    "company": "IG Petrochemicals Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/IGPL_01082023150918_BRSRIGPL2023.pdf"
+  },
+  {
+    "sno": 601,
+    "company": "NGL FINE-CHEM LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/NGL2022_01082023142145_BRSR2023.pdf"
+  },
+  {
+    "sno": 602,
+    "company": "AVT NATURAL PRODUCTS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/AVTNPL_01082023115654_BRSR_2022_23.pdf"
+  },
+  {
+    "sno": 603,
+    "company": "Balaxi Pharmaceuticals Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/BALAXI_01082023110854_Intimation_BRSR.pdf"
+  },
+  {
+    "sno": 604,
+    "company": "Fine Organic Industries Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/FINEORG_31072023223153_IntimationofBRSR.pdf"
+  },
+  {
+    "sno": 605,
+    "company": "Lumax Auto Technologies Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/LUMAXTECH_31072023221538_BRSR2023LATL.pdf"
+  },
+  {
+    "sno": 606,
+    "company": "Lumax Industries Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/LUMAXIND_31072023214103_BRSRReportLumaxIndustriesLimited202223.pdf"
+  },
+  {
+    "sno": 607,
+    "company": "DEN Networks Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/DEN_31072023204655_BRSR310723Gh.pdf"
+  },
+  {
+    "sno": 608,
+    "company": "Indo Count Industries Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ICIL_31072023185308_BRSRReport.pdf"
+  },
+  {
+    "sno": 609,
+    "company": "Heranba Industries Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/HERANBA_31072023184519_BRSR_FY_2023_with_Covering_Letter.pdf"
+  },
+  {
+    "sno": 610,
+    "company": "Hathway Cable & Datacom Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/HATHWAY_31072023174925_HCDLSubmissionofBRSR31072023.pdf"
+  },
+  {
+    "sno": 611,
+    "company": "ASTRA MICROWAVE PRODUCTS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ASTRAMICRO_31072023162940_BRSRLet.pdf"
+  },
+  {
+    "sno": 612,
+    "company": "The Jammu & Kashmir Bank Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MARYA_31072023161351_Final_brsr.pdf"
+  },
+  {
+    "sno": 613,
+    "company": "BHARAT HEAVY ELECTRICALS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/BHEL_31072023155112_3459BRSR2223.pdf"
+  },
+  {
+    "sno": 614,
+    "company": "360 ONE WAM LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/IIFLWAM_31072023150148_BRSR2023.pdf"
+  },
+  {
+    "sno": 615,
+    "company": "EICHER MOTORS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/EICHERMOT_31072023140905_EMLIntimationBRSR202223Signed.pdf"
+  },
+  {
+    "sno": 616,
+    "company": "THE UGAR SUGAR WORKS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/UGARSUGAR_31072023121932_BSRS_USW_2023.pdf"
+  },
+  {
+    "sno": 617,
+    "company": "Timken India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/TIMKEN_31072023120734_SEIntimation_BSBR.pdf"
+  },
+  {
+    "sno": 618,
+    "company": "HEG Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/HEG_31072023114640_BRSR202223.pdf"
+  },
+  {
+    "sno": 619,
+    "company": "Sun Pharmaceutical Industries Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SUNHARSH_30072023183907_BRSRStockExchange.pdf"
+  },
+  {
+    "sno": 620,
+    "company": "H.G. Infra Engineering Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/HGINFRA_29072023214128_NoticeofAGMandAnnualReport.pdf"
+  },
+  {
+    "sno": 621,
+    "company": "Steel Strips Wheels Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SSWL_29072023202554_BRSR2022_23_nse.pdf"
+  },
+  {
+    "sno": 622,
+    "company": "V-GUARD INDUSTRIES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/VGUARD4321_29072023181506_IntimationBRSR.pdf"
+  },
+  {
+    "sno": 623,
+    "company": "Relaxo Footwears Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/RELAXO_29072023154549_BRSRfilingstxpdf.pdf"
+  },
+  {
+    "sno": 624,
+    "company": "Max Financial Services Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/Max_29072023150808_BRSRREPORTMAXFINANCIAL31032023.pdf"
+  },
+  {
+    "sno": 625,
+    "company": "THE FEDERAL BANK LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/FEDERALBNK_29072023151828_FBL_BRSR_final_SE_2907.pdf"
+  },
+  {
+    "sno": 626,
+    "company": "JAGRAN PRAKASHAN LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/JAGRAN_29072023152134_JPLANNUALREPORT.pdf"
+  },
+  {
+    "sno": 627,
+    "company": "Electronics Mart India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/EMILTD_29072023133350_EMILBRSR28072023.pdf"
+  },
+  {
+    "sno": 628,
+    "company": "Hindustan Zinc Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/HINDZINC_29072023120542_BRSR_24082023.pdf"
+  },
+  {
+    "sno": 629,
+    "company": "ISGEC Heavy Engineering Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ISGEC_28072023230231_BRSRINTIMATION.pdf"
+  },
+  {
+    "sno": 630,
+    "company": "HINDALCO INDUSTRIES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/HINDALCO_28072023224522_BRSR_PDF_280723.pdf"
+  },
+  {
+    "sno": 631,
+    "company": "Kolte - Patil Developers Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/KOLTEPATIL_28072023215204_KoltePatilBusinessResponsibilityandSustainabilityReporting.pdf"
+  },
+  {
+    "sno": 632,
+    "company": "Pfizer Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PFIZER_28072023172903_StockexchangeintimationPfizerLimitedBRSR2023.pdf"
+  },
+  {
+    "sno": 633,
+    "company": "PCBL Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PCBL_28072023145835_BRSRfortheFYended31032023.pdf"
+  },
+  {
+    "sno": 634,
+    "company": "Gujarat Pipavav Port Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GPPL_28072023144848_BRSR.pdf"
+  },
+  {
+    "sno": 635,
+    "company": "UPL LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/UPL1_28072023143209_UPLBRSR.pdf"
+  },
+  {
+    "sno": 636,
+    "company": "Endurance Technologies Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ENDURANCE_28072023130933_BRSR.pdf"
+  },
+  {
+    "sno": 637,
+    "company": "APTUS VALUE HOUSING FINANCE INDIA LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/APTUS_27072023220353_BRSRcoveringlettersd.pdf"
+  },
+  {
+    "sno": 638,
+    "company": "Wipro Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/Cslogin_27072023191657_BRSR_fY23.pdf"
+  },
+  {
+    "sno": 639,
+    "company": "Bajaj Hindusthan Sugar Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/BAJAJNEAPS1_27072023154338_MC_BHSL_BRSR_2022_23.pdf"
+  },
+  {
+    "sno": 640,
+    "company": "AJMERA REALTY & INFRA INDIA LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/AJMERA_27072023122055_Intimation_BRSR.pdf"
+  },
+  {
+    "sno": 641,
+    "company": "Balrampur Chini Mills Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PRIYANKABCML_27072023110956_BRSR.pdf"
+  },
+  {
+    "sno": 642,
+    "company": "Manappuram Finance Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MANAPPURAM_27072023085048_BRSRSE2023.pdf"
+  },
+  {
+    "sno": 643,
+    "company": "Motherson Sumi Wiring India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MSWIL_26072023212227_AnnualReportintimation.pdf"
+  },
+  {
+    "sno": 644,
+    "company": "PI INDUSTRIES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PIIND_26072023210645_brsr_file.pdf"
+  },
+  {
+    "sno": 645,
+    "company": "Reliance Industrial Infrastructure Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/mayashrihari_26072023193658_RIILBRSR202223PDFFINALL.pdf"
+  },
+  {
+    "sno": 646,
+    "company": "MUSIC BROADCAST LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/RADIOCITY_26072023170012_MBLBRSR2023.pdf"
+  },
+  {
+    "sno": 647,
+    "company": "Pitti Engineering Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PITTIENG_26072023165317_BRSRreport.pdf"
+  },
+  {
+    "sno": 648,
+    "company": "Tide Water Oil Company (India) Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/TIDEWATER1_26072023140624_twobrsr31032023.pdf"
+  },
+  {
+    "sno": 649,
+    "company": "Castrol India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/CASTROLINDIA_26072023135047_SE_Intimation_BRSRFY2022_09062023.pdf"
+  },
+  {
+    "sno": 650,
+    "company": "Metropolis Healthcare Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/METROPOLIS_25072023210841_BRSR_Stock_Exchange_Intimation.pdf"
+  },
+  {
+    "sno": 651,
+    "company": "Hindustan Unilever Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/HINDUNILVR_25072023212210_BRSRFY202223Clarification.pdf"
+  },
+  {
+    "sno": 652,
+    "company": "Bajaj Consumer Care Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/BAJAJCON_25072023200019_BRSR.pdf"
+  },
+  {
+    "sno": 653,
+    "company": "Chemplast Sanmar Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/CHEMPLASTS_25072023182825_BRsr2023.pdf"
+  },
+  {
+    "sno": 654,
+    "company": "KALYANI STEELS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/KSL_25072023164845_KSL_AGM_2023_Submission_of_BRSR_2023_.pdf"
+  },
+  {
+    "sno": 655,
+    "company": "The Ramco Cements Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/RAMCOCEM_25072023161235_RamcoAR202223BRSR.pdf"
+  },
+  {
+    "sno": 656,
+    "company": "Heritage Foods Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/HERITGFOOD_25072023151404_BRSR.pdf"
+  },
+  {
+    "sno": 657,
+    "company": "Navin Fluorine International Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/NAVINFLUOR_25072023121725_NFILIntimationofBRSR2023signed.pdf"
+  },
+  {
+    "sno": 658,
+    "company": "IDFC Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/IDFC_25072023115527_IDFCLimitedNOTICE26thAGM.pdf"
+  },
+  {
+    "sno": 659,
+    "company": "Grasim Industries Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GRASIM_24072023223754_BRSRGrasim2023.pdf"
+  },
+  {
+    "sno": 660,
+    "company": "KCP LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/radhika_24072023182837_BRSR_PDF.pdf"
+  },
+  {
+    "sno": 661,
+    "company": "Oriental Aromatics Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/OAL_24072023181156_Intimation.pdf"
+  },
+  {
+    "sno": 662,
+    "company": "West Coast Paper Mills Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/WSTCSTPAPR_24072023170121_BRSR2023.pdf"
+  },
+  {
+    "sno": 663,
+    "company": "Quick Heal Technologies Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/QUICKHEAL_24072023154524_BRSR.pdf"
+  },
+  {
+    "sno": 664,
+    "company": "MTAR TECHNOLOGIES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MTARTECH_24072023150339_BRSRsd.pdf"
+  },
+  {
+    "sno": 665,
+    "company": "GLOBUS SPIRITS LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GLOBUSSPR_24072023140054_BRSR.pdf"
+  },
+  {
+    "sno": 666,
+    "company": "NAVNEET EDUCATION LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/NAVNETEDUL_23072023212855_BRSRReportFinal2.pdf"
+  },
+  {
+    "sno": 667,
+    "company": "Gabriel India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GABRIEL_22072023164649_seintimationbrsrsigned.pdf"
+  },
+  {
+    "sno": 668,
+    "company": "SAKSOFT LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SAKSOFT_22072023155817_SAKSOFTBRSR2023.pdf"
+  },
+  {
+    "sno": 669,
+    "company": "Rupa & Company Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/RUPA_22072023154522_RupaBRSRReport2023.pdf"
+  },
+  {
+    "sno": 670,
+    "company": "TRIDENT LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/TRIDENT_21072023221127_BRSRFILING202223.pdf"
+  },
+  {
+    "sno": 671,
+    "company": "Ramco Systems Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/RAMCOSYS_21072023203520_RamcoSystems_BRSR2022_23.pdf"
+  },
+  {
+    "sno": 672,
+    "company": "CG Power and Industrial Solutions Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/CGPOWER_21072023195422_Annual_Report.pdf"
+  },
+  {
+    "sno": 673,
+    "company": "Wockhardt Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/WOCKPHARMA_21072023193248_BRSRReport21072023.pdf"
+  },
+  {
+    "sno": 674,
+    "company": "Havells India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/HAVELLS1_21072023180212_IntegratedReport_inclBRSR.pdf"
+  },
+  {
+    "sno": 675,
+    "company": "MUKAND LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MUKANDLTD_21072023170317_SE_BRSR.pdf"
+  },
+  {
+    "sno": 676,
+    "company": "Nesco Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/NESCO_21072023143738_BRSR31032023NSE.pdf"
+  },
+  {
+    "sno": 677,
+    "company": "IOL Chemicals and Pharmaceuticals Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/IOLCP_21072023134843_BRSR_.pdf"
+  },
+  {
+    "sno": 678,
+    "company": "Oriental Carbon & Chemicals Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/OCCL_21072023125559_BRSR2223.pdf"
+  },
+  {
+    "sno": 679,
+    "company": "VA TECH WABAG LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/VATECH_21072023124215_SI_BRSR_AR22_23.pdf"
+  },
+  {
+    "sno": 680,
+    "company": "Sudarshan Chemical Industries Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SUDARSCHEM_21072023123320_SUDARSHANBRSRIntimation2023.pdf"
+  },
+  {
+    "sno": 681,
+    "company": "SHALBY LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SHALBYLTD_21072023120401_46BRSR.pdf"
+  },
+  {
+    "sno": 682,
+    "company": "N. B. I. Industrial Finance Company Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/NBIFIN_21072023100958_NBI_BRSR_2022_23.pdf"
+  },
+  {
+    "sno": 683,
+    "company": "SAPPHIRE FOODS INDIA LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SAPPHIRE_20072023203315_BRSR.pdf"
+  },
+  {
+    "sno": 684,
+    "company": "BERGER PAINTS (I) LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PAINTBERGE_20072023183218_BRSRFY202223.pdf"
+  },
+  {
+    "sno": 685,
+    "company": "Astral Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ASTRAL_20072023181936_BRSR.pdf"
+  },
+  {
+    "sno": 686,
+    "company": "Tata Steel Long Products Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/TSLPL_20072023173023_BRSRsigned.pdf"
+  },
+  {
+    "sno": 687,
+    "company": "APAR INDUSTRIES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/APARINDS_20072023170130_APARndustriesLimitedAR2223.pdf"
+  },
+  {
+    "sno": 688,
+    "company": "Kirloskar Oil Engines Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/KIRLOSENG_20072023153917_SELetter_Reg34_AnnualReport_19Jul23.pdf"
+  },
+  {
+    "sno": 689,
+    "company": "TCI Express Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/TCIEXP_20072023143651_BRSR31032023.pdf"
+  },
+  {
+    "sno": 690,
+    "company": "FOSECO INDIA LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/FOSECOIND_20072023142512_Foseco_BRSR_FY_2022.pdf"
+  },
+  {
+    "sno": 691,
+    "company": "Centum Electronics Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/CENTUME_20072023140253_BRSR.pdf"
+  },
+  {
+    "sno": 692,
+    "company": "The Great Eastern Shipping Company Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GESHIP_20072023122631_BRSR.pdf"
+  },
+  {
+    "sno": 693,
+    "company": "Hitachi Energy India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/HitachiEnergy_19072023232804_BRSR2023.pdf"
+  },
+  {
+    "sno": 694,
+    "company": "Cholamandalam Financial Holdings Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/CHOLAHLDNG_19072023215813_SEIntimation.pdf"
+  },
+  {
+    "sno": 695,
+    "company": "TIPS INDUSTRIES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/TIPSINDLTD_19072023212250_TIPSINDLTDBRSR.pdf"
+  },
+  {
+    "sno": 696,
+    "company": "Grindwell Norton Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GRINDWELL_19072023204457_BRSRfull.pdf"
+  },
+  {
+    "sno": 697,
+    "company": "UltraTech Cement Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ULTRACEMCO_19072023201741_SEBRSR.pdf"
+  },
+  {
+    "sno": 698,
+    "company": "Bandhan Bank Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/BANDHANBNK_19072023194622_BRSR_BBL_FY_2022_23.pdf"
+  },
+  {
+    "sno": 699,
+    "company": "S H Kelkar and Company Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SHK_19072023191319_SELetterSHKBRSR.pdf"
+  },
+  {
+    "sno": 700,
+    "company": "GRANULES INDIA LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GRANULES_19072023184042_NSEBSEBRSR.pdf"
+  },
+  {
+    "sno": 701,
+    "company": "Tasty Bite Eatables Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/TASTYBITE_19072023182038_TBEL_BRSRIntimation2023.pdf"
+  },
+  {
+    "sno": 702,
+    "company": "UNITED BREWERIES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/UBLSJR_19072023181655_UBLBRSR202317072023.pdf"
+  },
+  {
+    "sno": 703,
+    "company": "Avenue Supermarts Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/DMART_19072023181325_ASLIntimationBRSR202223.pdf"
+  },
+  {
+    "sno": 704,
+    "company": "AU Small Finance Bank Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SUMIT1_19072023173642_BRSR_FY_2022_23.pdf"
+  },
+  {
+    "sno": 705,
+    "company": "Vishnu Chemicals Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/VISHNU_19072023155944_BRSR_pdftoSE_dt11082023.pdf"
+  },
+  {
+    "sno": 706,
+    "company": "Kalyan Jewellers India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/KALYANKJIL_19072023151659_brsr.pdf"
+  },
+  {
+    "sno": 707,
+    "company": "HDFC Bank Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/HDFCBANK_19072023144457_SEintimation_Reg34.pdf"
+  },
+  {
+    "sno": 708,
+    "company": "Automotive Axles Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/AUTOAXLES_19072023121427_BRSRFY202223.pdf"
+  },
+  {
+    "sno": 709,
+    "company": "Chalet Hotels Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/CHALET_19072023113905_Regulation34BRSR18072023.pdf"
+  },
+  {
+    "sno": 710,
+    "company": "Angel One Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ANGEL8896_19072023111351_BRSR.pdf"
+  },
+  {
+    "sno": 711,
+    "company": "Cipla Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/CIPLA_18072023235000_BRSRCiplaFY2023.pdf"
+  },
+  {
+    "sno": 712,
+    "company": "Greaves Cotton Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GREAVESCOT_18072023231604_BRSR.pdf"
+  },
+  {
+    "sno": 713,
+    "company": "REPRO INDIA LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/REPRO_18072023202727_BRSR_2023.pdf"
+  },
+  {
+    "sno": 714,
+    "company": "Bata India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/BATAINDIA_18072023201412_BRSRBATA2023.pdf"
+  },
+  {
+    "sno": 715,
+    "company": "EIH LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/EIHOTEL01_18072023200804_EIHBRSR2223.pdf"
+  },
+  {
+    "sno": 716,
+    "company": "Privi Speciality Chemicals Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/FAIRCHEMDP_18072023181244_BRSR.pdf"
+  },
+  {
+    "sno": 717,
+    "company": "Seamec Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SEAMECLTD_18072023173739_NSEIntimationBRSR2023revised.pdf"
+  },
+  {
+    "sno": 718,
+    "company": "Ador Welding Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ADORWELD_18072023165402_BRSRintimation.pdf"
+  },
+  {
+    "sno": 719,
+    "company": "TD Power Systems Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/TDPOWERSYS_18072023163603_Business_Responsbility_and_Sustainability_Report.pdf"
+  },
+  {
+    "sno": 720,
+    "company": "Orchid Pharma Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ORCHPHARMA_18072023161808_ORCHPHARMABRSR202223.pdf"
+  },
+  {
+    "sno": 721,
+    "company": "JTEKT India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/JTEKTINDIA_18072023153806_BRSR.pdf"
+  },
+  {
+    "sno": 722,
+    "company": "COSMO FIRST LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/COSMOFILMS_18072023130101_BRSR_31032023.pdf"
+  },
+  {
+    "sno": 723,
+    "company": "Avanti Feeds Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/AVANTIFEEDS_18072023120603_AFLBRSRReport17072023.pdf"
+  },
+  {
+    "sno": 724,
+    "company": "Xpro India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/XPROINDIA_18072023114354_BRSR2023.pdf"
+  },
+  {
+    "sno": 725,
+    "company": "Adani Ports and Special Economic Zone Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/rkbhagia_17072023235546_BRSRintimation.pdf"
+  },
+  {
+    "sno": 726,
+    "company": "MM Forgings Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/MMFL_17072023220233_MMFBRSR_F23.pdf"
+  },
+  {
+    "sno": 727,
+    "company": "Larsen & Toubro Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PAM_17072023210835_BRSRAGM2023.pdf"
+  },
+  {
+    "sno": 728,
+    "company": "HERO MOTOCORP LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/HEROMOTO_17072023195718_BRSR202223.pdf"
+  },
+  {
+    "sno": 729,
+    "company": "Aditya Birla Sun Life AMC Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ABSLAMC_17072023192538_Intimation.pdf"
+  },
+  {
+    "sno": 730,
+    "company": "Bharat Forge Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ANILSHINDE_18072023162852_SEIntimationBRSRfinal.pdf"
+  },
+  {
+    "sno": 731,
+    "company": "Safari Industries (India) Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SAFARI_17072023180430_SEDISCLOSUREBRSR.pdf"
+  },
+  {
+    "sno": 732,
+    "company": "IIFL Finance Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/IIFL_17072023175950_BRSR.pdf"
+  },
+  {
+    "sno": 733,
+    "company": "STERLITE TECHNOLOGIES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/STLTECH_17072023175340_Reg30BRSRsubmission17July2023_Signed.pdf"
+  },
+  {
+    "sno": 734,
+    "company": "Godrej Industries Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/Anupama_17072023174645_BSENSEBRSRREPORTFY2023.pdf"
+  },
+  {
+    "sno": 735,
+    "company": "Bajaj Electricals Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/BAJAJELEC_17072023174359_SignedSEIntimationofAnnualReport.pdf"
+  },
+  {
+    "sno": 736,
+    "company": "BASF India Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/BASFIL_17072023163716_BRSRIntimationLetter.pdf"
+  },
+  {
+    "sno": 737,
+    "company": "Atul Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ATUL1_17072023162238_AtulLtdBRSR202223.pdf"
+  },
+  {
+    "sno": 738,
+    "company": "ORIENT PAPER & INDUSTRIES LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ORIENTPPR_17072023153215_OPILBRSR2023STOCKEXCHANGE17THJULY.pdf"
+  },
+  {
+    "sno": 739,
+    "company": "Zensar Technologies Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ZENSARTECH_17072023134847_SEIntimationAR2023.pdf"
+  },
+  {
+    "sno": 740,
+    "company": "Shree Digvijay Cement Co.Ltd",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SHREEDIG_17072023142444_BRSRPDF31032023A.pdf"
+  },
+  {
+    "sno": 741,
+    "company": "PRICOL LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/PRICOLLTD_17072023142710_sebrsr2023.pdf"
+  },
+  {
+    "sno": 742,
+    "company": "CSB Bank Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/CSBBANK_17072023014013_BSENSECSBBRSR2023f.pdf"
+  },
+  {
+    "sno": 743,
+    "company": "ADF Foods Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/ADFFOODS1_16072023190255_ADFLBRSRReport202223.pdf"
+  },
+  {
+    "sno": 744,
+    "company": "Sobha Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SOBHA_15072023213155_BusinessResponsibilityandSustainabilityReport20222023SobhaLtd.pdf"
+  },
+  {
+    "sno": 745,
+    "company": "Greenlam Industries Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/GREENLAMRB_15072023201840_BRSR202223.pdf"
+  },
+  {
+    "sno": 746,
+    "company": "Brigade Enterprises Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/BRIGADE_15072023201803_BRSR.pdf"
+  },
+  {
+    "sno": 747,
+    "company": "JINDAL WORLDWIDE LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/JINDWORLD_15072023194838_JWLBRSRMarch23.pdf"
+  },
+  {
+    "sno": 748,
+    "company": "EIH Associated Hotels Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/EIHAHOTELS_15072023185901_EIHABRSR.pdf"
+  },
+  {
+    "sno": 749,
+    "company": "Torrent Power Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/TORNTPOWER_15072023182413_BRSR.pdf"
+  },
+  {
+    "sno": 750,
+    "company": "IGARASHI MOTORS INDIA LIMITED",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/IGARASHI_15072023181628_IMILBRSRFY2223150723SD.pdf"
+  },
+  {
+    "sno": 751,
+    "company": "Usha Martin Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/USHAMART_15072023164800_SubmissionofBRSR.pdf"
+  },
+  {
+    "sno": 752,
+    "company": "Sun Pharma Advanced Research Company Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/SPARC_15072023134011_BRSR_Seperated.pdf"
+  },
+  {
+    "sno": 753,
+    "company": "Tata Motors Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/TATAMTRDVRB_15072023132404_BRSR.pdf"
+  },
+  {
+    "sno": 754,
+    "company": "Torrent Pharmaceuticals Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/TORNTPHARM_15072023092648_BRSRSEs2023.pdf"
+  },
+  {
+    "sno": 755,
+    "company": "Data Patterns (India) Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 756,
+    "company": "Godrej Consumer Products Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 757,
+    "company": "SBI Cards and Payment Services Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 758,
+    "company": "Restaurant Brands Asia Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 759,
+    "company": "Narayana Hrudayalaya Ltd.",
+    "brsr_link": null
+  },
+  {
+    "sno": 760,
+    "company": "Prism Johnson Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 761,
+    "company": "Satin Creditcare Network Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 762,
+    "company": "Pidilite Industries Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 763,
+    "company": "RAJRATAN GLOBAL WIRE LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 764,
+    "company": "CENTRUM CAPITAL LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 765,
+    "company": "Galaxy Surfactants Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 766,
+    "company": "Zydus Lifesciences Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 767,
+    "company": "INDIGO PAINTS LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 768,
+    "company": "GlaxoSmithKline Pharmaceuticals Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 769,
+    "company": "Deepak Nitrite Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 770,
+    "company": "Sonata Software Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 771,
+    "company": "Advanced Enzyme Technologies Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 772,
+    "company": "Computer Age Management Services Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 773,
+    "company": "Syngene International Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 774,
+    "company": "Punjab Chemicals & Crop Protection Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 775,
+    "company": "RPG Life Sciences Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 776,
+    "company": "Fairchem Organics Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 777,
+    "company": "MARICO LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 778,
+    "company": "Delta Corp Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 779,
+    "company": "DLF Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 780,
+    "company": "Man Infraconstruction Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 781,
+    "company": "Voltamp Transformers Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 782,
+    "company": "Styrenix Performance Materials Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 783,
+    "company": "Exide Industries Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 784,
+    "company": "KEC International Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 785,
+    "company": "PNB Housing Finance Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 786,
+    "company": "Clean Science and Technology Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 787,
+    "company": "Firstsource Solutions Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 788,
+    "company": "BHAGIRADHA CHEMICALS & INDUSTRIES LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 789,
+    "company": "Symphony Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 790,
+    "company": "Laxmi Organic Industries Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 791,
+    "company": "Infosys Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 792,
+    "company": "Aarti Industries Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 793,
+    "company": "DCM Shriram Industries Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 794,
+    "company": "ARIHANT CAPITAL MARKETS LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 795,
+    "company": "IFB INDUSTRIES LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 796,
+    "company": "ORIENT ELECTRIC LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 797,
+    "company": "Arvind SmartSpaces Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 798,
+    "company": "Carborundum Universal Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 799,
+    "company": "SUVEN LIFE SCIENCES LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 800,
+    "company": "Vaibhav Global Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 801,
+    "company": "JSW Holdings Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 802,
+    "company": "Wendt (India) Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 803,
+    "company": "INDIAN HUME PIPE COMPANY LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 804,
+    "company": "The Anup Engineering Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 805,
+    "company": "SAGAR CEMENTS LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 806,
+    "company": "ITC Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 807,
+    "company": "CARE Ratings Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 808,
+    "company": "JAMNA AUTO INDUSTRIES LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 809,
+    "company": "Dollar Industries Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 810,
+    "company": "Adani Transmission Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 811,
+    "company": "Apollo Tyres Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 812,
+    "company": "Century Textiles & Industries Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 813,
+    "company": "NOCIL Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 814,
+    "company": "Indian Bank",
+    "brsr_link": null
+  },
+  {
+    "sno": 815,
+    "company": "Cholamandalam Investment and Finance Company Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 816,
+    "company": "NAVA LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 817,
+    "company": "Dhanuka Agritech Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 818,
+    "company": "VIP INDUSTRIES LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 819,
+    "company": "ICRA Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 820,
+    "company": "Union Bank of India",
+    "brsr_link": null
+  },
+  {
+    "sno": 821,
+    "company": "Blue Star Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 822,
+    "company": "Rane Holdings Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 823,
+    "company": "Bajaj Finserv Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 824,
+    "company": "JK Tyre & Industries Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 825,
+    "company": "INDIAN OVERSEAS BANK",
+    "brsr_link": null
+  },
+  {
+    "sno": 826,
+    "company": "EPL Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 827,
+    "company": "VRL Logistics Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 828,
+    "company": "Ipca Laboratories Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 829,
+    "company": "ISMT Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 830,
+    "company": "Bank of Maharashtra",
+    "brsr_link": null
+  },
+  {
+    "sno": 831,
+    "company": "BOSCH LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 832,
+    "company": "Sundram Fasteners Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 833,
+    "company": "HIL Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 834,
+    "company": "Colgate Palmolive (India) Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 835,
+    "company": "Cummins India Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 836,
+    "company": "MPS Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 837,
+    "company": "GODREJ AGROVET LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 838,
+    "company": "PDS Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 839,
+    "company": "TCPL Packaging Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 840,
+    "company": "Nelcast Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 841,
+    "company": "Artemis Medicare Services Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 842,
+    "company": "Borosil Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 843,
+    "company": "AKZO NOBEL INDIA LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 844,
+    "company": "JM Financial Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 845,
+    "company": "Ratnamani Metals & Tubes Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 846,
+    "company": "Tube Investments of India Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 847,
+    "company": "Zydus Wellness Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 848,
+    "company": "Godrej Properties Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 849,
+    "company": "Arvind Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 850,
+    "company": "COROMANDEL INTERNATIONAL LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 851,
+    "company": "United Spirits Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 852,
+    "company": "Piramal Pharma Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 853,
+    "company": "Sundaram Finance Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 854,
+    "company": "RELIANCE INFRASTRUCTURE LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 855,
+    "company": "JSW STEEL LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 856,
+    "company": "Sundaram Finance Holdings Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 857,
+    "company": "Kirloskar Brothers Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 858,
+    "company": "Redington Limited",
+    "brsr_link": "https://nsearchives.nseindia.com/corporate/BR_REDINGTON_2022_2023_20220800072.pdf"
+  },
+  {
+    "sno": 859,
+    "company": "RELIANCE POWER LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 860,
+    "company": "Sharda Cropchem Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 861,
+    "company": "Mahindra Lifespace Developers Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 862,
+    "company": "ORIENTAL HOTELS LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 863,
+    "company": "UGRO Capital Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 864,
+    "company": "Transport Corporation of India Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 865,
+    "company": "Latent View Analytics Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 866,
+    "company": "Mahindra EPC Irrigation Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 867,
+    "company": "Kokuyo Camlin Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 868,
+    "company": "Ujjivan Small Finance Bank Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 869,
+    "company": "KHAITAN CHEMICALS & FERTILIZERS LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 870,
+    "company": "Bajaj Finance Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 871,
+    "company": "Minda Corporation Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 872,
+    "company": "INTELLECT DESIGN ARENA LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 873,
+    "company": "Thermax Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 874,
+    "company": "Indo Rama Synthetics (India) Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 875,
+    "company": "ORIENT CEMENT LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 876,
+    "company": "Dabur India Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 877,
+    "company": "Ujjivan Financial Services Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 878,
+    "company": "TTK PRESTIGE LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 879,
+    "company": "L&T Finance Holdings Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 880,
+    "company": "Archean Chemical Industries Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 881,
+    "company": "Birlasoft Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 882,
+    "company": "Punjab National Bank",
+    "brsr_link": null
+  },
+  {
+    "sno": 883,
+    "company": "Kesoram Industries Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 884,
+    "company": "Blue Dart Express Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 885,
+    "company": "Swaraj Engines Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 886,
+    "company": "PUNJAB & SIND BANK",
+    "brsr_link": null
+  },
+  {
+    "sno": 887,
+    "company": "Precision Camshafts Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 888,
+    "company": "Bajaj Auto Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 889,
+    "company": "Shanthi Gears Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 890,
+    "company": "ASTEC LIFESCIENCES LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 891,
+    "company": "Mahindra & Mahindra Financial Services Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 892,
+    "company": "Aegis Logistics Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 893,
+    "company": "Bajaj Holdings & Investment Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 894,
+    "company": "MAS FINANCIAL SERVICES LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 895,
+    "company": "Mahindra Holidays & Resorts India Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 896,
+    "company": "Poonawalla Fincorp Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 897,
+    "company": "Lakshmi Machine Works Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 898,
+    "company": "UTI Asset Management Company Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 899,
+    "company": "Mahindra & Mahindra Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 900,
+    "company": "ICICI Prudential Life Insurance Company Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 901,
+    "company": "Shree Cement Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 902,
+    "company": "Mahindra Logistics Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 903,
+    "company": "PIX TRANSMISSIONS LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 904,
+    "company": "K.P.R. Mill Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 905,
+    "company": "Maharashtra Scooters Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 906,
+    "company": "MACROTECH DEVELOPERS LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 907,
+    "company": "SHOPPERS STOP LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 908,
+    "company": "LLOYDS STEELS INDUSTRIES LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 909,
+    "company": "Sundaram Clayton Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 910,
+    "company": "HAPPIEST MINDS TECHNOLOGIES LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 911,
+    "company": "Honda India Power Products Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 912,
+    "company": "MITCON Consultancy & Engineering Services Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 913,
+    "company": "Visaka Industries Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 914,
+    "company": "Oracle Financial Services Software Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 915,
+    "company": "DCM Shriram Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 916,
+    "company": "TTK Healthcare Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 917,
+    "company": "New Delhi Television Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 918,
+    "company": "Balaji Amines Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 919,
+    "company": "Indian Metals & Ferro Alloys Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 920,
+    "company": "JYOTHY LABS LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 921,
+    "company": "ICICI Lombard General Insurance Company Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 922,
+    "company": "BLISS GVS PHARMA LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 923,
+    "company": "Ashok Leyland Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 924,
+    "company": "LTIMINDTREE LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 925,
+    "company": "Wheels India Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 926,
+    "company": "Nureca Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 927,
+    "company": "Sheela Foam Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 928,
+    "company": "TVS Motor Company Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 929,
+    "company": "Adani Wilmar Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 930,
+    "company": "Adani Enterprises Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 931,
+    "company": "Mphasis Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 932,
+    "company": "ADANI TOTAL GAS LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 933,
+    "company": "Sona BLW Precision Forgings Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 934,
+    "company": "Aavas Financiers Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 935,
+    "company": "Vesuvius India Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 936,
+    "company": "CAN FIN HOMES LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 937,
+    "company": "IDBI Bank Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 938,
+    "company": "Dwarikesh Sugar Industries Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 939,
+    "company": "Vodafone Idea Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 940,
+    "company": "L&T Technology Services Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 941,
+    "company": "PERSISTENT SYSTEMS LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 942,
+    "company": "Dalmia Bharat Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 943,
+    "company": "Onward Technologies Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 944,
+    "company": "Butterfly Gandhimathi Appliances Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 945,
+    "company": "Escorts Kubota Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 946,
+    "company": "Sterling and Wilson Renewable Energy Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 947,
+    "company": "Nippon Life India Asset Management Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 948,
+    "company": "Raymond Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 949,
+    "company": "KALPATARU PROJECTS INTERNATIONAL LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 950,
+    "company": "Tarsons Products Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 951,
+    "company": "Central Bank of India",
+    "brsr_link": null
+  },
+  {
+    "sno": 952,
+    "company": "Vedanta Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 953,
+    "company": "Greenpanel Industries Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 954,
+    "company": "Agro Tech Foods Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 955,
+    "company": "ALKYL AMINES CHEMICALS LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 956,
+    "company": "DODLA DAIRY LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 957,
+    "company": "Himadri Speciality Chemical Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 958,
+    "company": "Tata Steel Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 959,
+    "company": "Nilkamal Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 960,
+    "company": "BANK OF INDIA",
+    "brsr_link": null
+  },
+  {
+    "sno": 961,
+    "company": "Meghmani Organics Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 962,
+    "company": "Thangamayil Jewellery Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 963,
+    "company": "Shriram Pistons & Rings Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 964,
+    "company": "Bank of Baroda",
+    "brsr_link": null
+  },
+  {
+    "sno": 965,
+    "company": "POLYCAB INDIA LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 966,
+    "company": "CEAT Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 967,
+    "company": "SIS Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 968,
+    "company": "Crompton Greaves Consumer Electricals Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 969,
+    "company": "SMC GLOBAL SECURITIES LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 970,
+    "company": "Kansai Nerolac Paints Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 971,
+    "company": "KUANTUM PAPERS LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 972,
+    "company": "Cera Sanitaryware Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 973,
+    "company": "SUPREME PETROCHEM LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 974,
+    "company": "Devyani International Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 975,
+    "company": "Anant Raj Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 976,
+    "company": "Oberoi Realty Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 977,
+    "company": "JSW Energy Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 978,
+    "company": "ABB India Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 979,
+    "company": "Orient Green Power Company Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 980,
+    "company": "Rainbow Childrens Medicare Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 981,
+    "company": "Tata Consultancy Services Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 982,
+    "company": "Piramal Enterprises Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 983,
+    "company": "SRF Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 984,
+    "company": "Supreme Industries Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 985,
+    "company": "Elecon Engineering Company Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 986,
+    "company": "MEGHMANI FINECHEM LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 987,
+    "company": "Tata Teleservices (Maharashtra) Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 988,
+    "company": "DCB Bank Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 989,
+    "company": "NEWGEN SOFTWARE TECHNOLOGIES LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 990,
+    "company": "ANAND RATHI WEALTH LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 991,
+    "company": "State Bank of India",
+    "brsr_link": null
+  },
+  {
+    "sno": 992,
+    "company": "SESHASAYEE PAPER AND BOARDS LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 993,
+    "company": "HDFC Asset Management Company Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 994,
+    "company": "Tata Chemicals Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 995,
+    "company": "Asian Paints Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 996,
+    "company": "Craftsman Automation Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 997,
+    "company": "Tata Investment Corporation Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 998,
+    "company": "Trent Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 999,
+    "company": "Sula Vineyards Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 1000,
+    "company": "Voltas Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 1001,
+    "company": "Canara Bank",
+    "brsr_link": null
+  },
+  {
+    "sno": 1002,
+    "company": "Shriram Finance Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 1003,
+    "company": "Mahindra CIE Automotive Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 1004,
+    "company": "EMUDHRA LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 1005,
+    "company": "Jindal Saw Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 1006,
+    "company": "Solar Industries India Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 1007,
+    "company": "Aether Industries Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 1008,
+    "company": "R Systems International Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 1009,
+    "company": "Tata Power Company Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 1010,
+    "company": "Apcotex Industries Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 1011,
+    "company": "Nelco Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 1012,
+    "company": "UCO BANK",
+    "brsr_link": null
+  },
+  {
+    "sno": 1013,
+    "company": "Rallis India Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 1014,
+    "company": "The Indian Hotels Company Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 1015,
+    "company": "Tata Consumer Products Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 1016,
+    "company": "CRISIL Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 1017,
+    "company": "Home First Finance Company India Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 1018,
+    "company": "Huhtamaki India Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 1019,
+    "company": "Rossari Biotech Limited",
+    "brsr_link": null
+  },
+  {
+    "sno": 1020,
+    "company": "GM BREWERIES LIMITED",
+    "brsr_link": null
+  },
+  {
+    "sno": 1021,
+    "company": "Sanofi India Limited",
+    "brsr_link": null
+  }
+]
