@@ -631,9 +631,11 @@ def search_brsr_pdf(company_name: str) -> tuple[str | None, bytes | None]:
     search_tool = Tool.from_google_search_retrieval(grounding.GoogleSearchRetrieval())
     prompt = (
         f"Find the direct PDF download URL for the BRSR (Business Responsibility and "
-        f"Sustainability Report) for FY 2022-23 filed by '{company_name}' on NSE or BSE "
-        f"or the company's investor relations website. "
-        f"Return ONLY the PDF URL, nothing else."
+        f"Sustainability Report) for financial year 2022-23 (April 2022 to March 2023) "
+        f"filed by the Indian listed company '{company_name}'. "
+        f"Look on BSE India filings, NSE India filings, or the company's official investor "
+        f"relations / annual report page. The report year must be FY 2022-23 specifically. "
+        f"Return ONLY the direct PDF URL, nothing else."
     )
     try:
         resp = model.generate_content(
@@ -805,23 +807,15 @@ def process_company(company: dict) -> dict:
 
     base = {"sno": sno, "company": name, "brsr_link": url, "analyzed_at": ts}
 
-    # Step 1: try existing NSE link
-    pdf = None
-    if url:
-        log.info(f"[{sno:4d}] {name}  →  downloading PDF from NSE link …")
-        pdf = download_pdf(url)
-
-    # Step 2: fallback to Google/DDG search if link missing or broken
-    if pdf is None:
-        log.info(f"[{sno:4d}] {name}  →  NSE link failed, searching for BRSR 2022-23 PDF …")
-        found_url, pdf = search_brsr_pdf(name)
-        if found_url:
-            url = found_url
-            base["brsr_link"] = found_url
-            log.info(f"[{sno:4d}] {name}  →  found via search: {found_url}")
+    # Skip NSE links — they are broken. Search directly via Gemini Google Search.
+    log.info(f"[{sno:4d}] {name}  →  searching for BRSR FY 2022-23 PDF via Gemini …")
+    found_url, pdf = search_brsr_pdf(name)
+    if found_url:
+        base["brsr_link"] = found_url
+        log.info(f"[{sno:4d}] {name}  →  found: {found_url}")
 
     if pdf is None:
-        log.warning(f"[{sno:4d}] {name}  →  could not find PDF anywhere, skipping")
+        log.warning(f"[{sno:4d}] {name}  →  could not find BRSR FY 2022-23 PDF, skipping")
         return {**base, "status": "pdf_not_found", "answers": {}, "scores": None}
 
     log.info(f"[{sno:4d}] {name}  →  analysing with Gemini ({len(pdf)//1024} KB) …")
