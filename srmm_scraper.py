@@ -631,10 +631,9 @@ def search_brsr_pdf(company_name: str) -> tuple[str | None, bytes | None]:
     search_tool = Tool.from_google_search_retrieval(grounding.GoogleSearchRetrieval())
     prompt = (
         f"Find the direct PDF download URL for the BRSR (Business Responsibility and "
-        f"Sustainability Report) for financial year 2022-23 (April 2022 to March 2023) "
-        f"filed by the Indian listed company '{company_name}'. "
+        f"Sustainability Report) filed by the Indian listed company '{company_name}'. "
         f"Look on BSE India filings, NSE India filings, or the company's official investor "
-        f"relations / annual report page. The report year must be FY 2022-23 specifically. "
+        f"relations / annual report page. "
         f"Return ONLY the direct PDF URL, nothing else."
     )
     try:
