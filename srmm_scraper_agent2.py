@@ -17,6 +17,7 @@ import requests
 from pathlib import Path
 from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from urllib.parse import urljoin
 import threading
 
 import vertexai
@@ -632,62 +633,102 @@ Return ONLY valid JSON in EXACTLY this structure (no markdown, no extra text):
 """
 
 # ═══════════════════════════════════════════════════════════════════════════════
-# PDF DOWNLOAD
+# PDF DOWNLOAD + VALIDATION
 # ═══════════════════════════════════════════════════════════════════════════════
+HEADERS = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+
+def is_valid_pdf(data: bytes) -> bool:
+    return len(data) > 50_000 and data[:4] == b"%PDF"
+
 def download_pdf(url: str) -> bytes | None:
     try:
-        headers = {"User-Agent": "Mozilla/5.0 (compatible; BRSR-scraper/1.0)"}
-        r = requests.get(url, timeout=PDF_DOWNLOAD_TIMEOUT, stream=True, headers=headers)
+        r = requests.get(url, timeout=PDF_DOWNLOAD_TIMEOUT, stream=True, headers=HEADERS)
         r.raise_for_status()
         data = b"".join(r.iter_content(chunk_size=65536))
-        if len(data) < 1000:
-            log.warning(f"PDF too small ({len(data)} bytes): {url}")
+        if not is_valid_pdf(data):
+            log.warning(f"Not a valid PDF ({len(data)} bytes): {url}")
             return None
         return data
     except Exception as e:
-        log.warning(f"PDF download failed: {url}  →  {e}")
+        log.warning(f"Download failed: {url}  →  {e}")
         return None
 
+def scrape_page_for_pdf(page_url: str) -> tuple[str | None, bytes | None]:
+    """Download an HTML page and hunt for PDF links inside it."""
+    try:
+        r = requests.get(page_url, timeout=20, headers=HEADERS)
+        r.raise_for_status()
+        ct = r.headers.get("content-type", "")
+        if "pdf" in ct.lower():
+            if is_valid_pdf(r.content):
+                return page_url, r.content
+        links = re.findall(r'href=["\']([^"\']*\.pdf[^"\']*)["\']', r.text, re.IGNORECASE)
+        links += re.findall(r"https?://\S+\.pdf", r.text, re.IGNORECASE)
+        for link in links[:8]:
+            if not link.startswith("http"):
+                link = urljoin(page_url, link)
+            link = link.rstrip("\"',)")
+            data = download_pdf(link)
+            if data:
+                return link, data
+    except Exception as e:
+        log.warning(f"Page scrape failed {page_url}: {e}")
+    return None, None
+
 # ═══════════════════════════════════════════════════════════════════════════════
-# GEMINI GOOGLE SEARCH — find BRSR FY 2022-23 PDF
+# GEMINI GOOGLE SEARCH  — multi-query, multi-strategy
 # ═══════════════════════════════════════════════════════════════════════════════
 def search_brsr_pdf(company_name: str) -> tuple[str | None, bytes | None]:
     model = get_model()
     search_tool = Tool.from_google_search_retrieval(grounding.GoogleSearchRetrieval())
-    prompt = (
-        f"Find the direct PDF download URL for the BRSR (Business Responsibility and "
-        f"Sustainability Report) filed by the Indian listed company '{company_name}'. "
-        f"Look on BSE India filings, NSE India filings, or the company's official investor "
-        f"relations / annual report page. "
-        f"Return ONLY the direct PDF URL, nothing else."
-    )
-    try:
-        resp = model.generate_content(
-            prompt,
-            tools=[search_tool],
-            generation_config=GenerationConfig(temperature=0),
-        )
-        candidate_urls = []
-        try:
-            meta = resp.candidates[0].grounding_metadata
-            if meta and meta.grounding_chunks:
-                for chunk in meta.grounding_chunks:
-                    if chunk.web and chunk.web.uri:
-                        candidate_urls.append(chunk.web.uri)
-        except Exception:
-            pass
-        text = resp.text.strip() if resp.text else ""
-        urls_in_text = re.findall(r"https?://\S+\.pdf\b", text, re.IGNORECASE)
-        candidate_urls = urls_in_text + candidate_urls
 
-        for url in candidate_urls:
-            url = url.rstrip(".,)")
-            log.info(f"  Gemini search hit: {url}")
-            data = download_pdf(url)
-            if data:
-                return url, data
-    except Exception as e:
-        log.warning(f"  Gemini search error for {company_name}: {e}")
+    queries = [
+        f"{company_name} BRSR annual report PDF download",
+        f"{company_name} Business Responsibility Sustainability Report filetype:pdf",
+        f"{company_name} BRSR BSE NSE investor relations annual report",
+    ]
+
+    seen = set()
+    for query in queries:
+        try:
+            resp = model.generate_content(
+                query,
+                tools=[search_tool],
+                generation_config=GenerationConfig(temperature=0),
+            )
+            candidate_urls = []
+            try:
+                meta = resp.candidates[0].grounding_metadata
+                if meta and meta.grounding_chunks:
+                    for chunk in meta.grounding_chunks:
+                        if chunk.web and chunk.web.uri:
+                            candidate_urls.append(chunk.web.uri)
+            except Exception:
+                pass
+            text = resp.text.strip() if resp.text else ""
+            candidate_urls = re.findall(r"https?://\S+", text) + candidate_urls
+
+            for url in candidate_urls:
+                url = url.rstrip(".,)\"`'")
+                if not url.startswith("http") or url in seen:
+                    continue
+                seen.add(url)
+                log.info(f"  Trying: {url}")
+
+                if url.lower().endswith(".pdf") or "pdf" in url.lower():
+                    data = download_pdf(url)
+                    if data:
+                        return url, data
+                else:
+                    found_url, data = scrape_page_for_pdf(url)
+                    if found_url:
+                        return found_url, data
+
+            time.sleep(2)
+        except Exception as e:
+            log.warning(f"Search query failed [{query[:40]}]: {e}")
+            time.sleep(3)
+
     return None, None
 
 # ═══════════════════════════════════════════════════════════════════════════════
